@@ -1,0 +1,17 @@
+{
+  "meta": {
+    "capNhat": "2026-04-10",
+    "truong": "THPT Cẩm Bình"
+  },
+  "tinTuc": [
+    {
+      "id": 5,
+      "tieu_de": "Sinh nhật Ng Nhật Huy: mời toàn trường nhưng không ai đến",
+      "noi_dung": "Nhà trường xác nhận: sinh nhật em Nhật Huy (10A5) ngày 10/04/2026 có mời toàn bộ học sinh và giáo viên tham dự tại biệt phủ riêng. Tuy nhiên, vì lý do bất khả kháng (không ai muốn đi), không một ai có mặt. Nhật Huy vẫn tự thổi nến, tự hát, tự vỗ tay và quan trọng nhất là việc đánh dấu quan trọng trong cuộc đời: đủ tuổi...",
+      "loai": "su_kien",
+      "ngay": "2026-04-10",
+      "quan_trong": true,
+      "icon": "🎂"
+    }
+  ]
+}

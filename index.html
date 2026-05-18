@@ -1,0 +1,265 @@
+<!DOCTYPE html>
+<html lang="vi" data-theme="light">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>THPT Cẩm Bình · Tra cứu học sinh 2025</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,400&family=Lexend+Deca:wght@600;700;800;900&family=Nunito:wght@600;700;800;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<!-- DISCLAIMER POPUP -->
+<div id="dov">
+<div id="dbox">
+  <div class="d-aurora"></div>
+  <div class="d-head">
+    <span class="d-badge">Legal Notice</span>
+    <span class="d-ref" id="d-ref">—</span>
+  </div>
+  <div class="d-title-wrap">
+    <div class="d-title">Tuyên bố Miễn trừ</div>
+    <div class="d-sub">Đọc kỹ trước khi tiếp tục</div>
+  </div>
+  <div class="d-body">
+    <div class="d-text"><p>Dữ liệu giả lập, chỉ phục vụ <b>minh hoạ &amp; học tập.</b> <b>Không liên kết</b> với bất kỳ tổ chức nào. <b>Tuân thủ pháp luật VN.</b></p></div>
+    <div class="d-hr"></div>
+    <div class="d-sys">
+      <div class="d-sys-top">
+        <span class="d-live"></span>
+        <span class="d-sys-lbl">Phiên truy cập</span>
+        <div class="d-scan"></div>
+      </div>
+      <div class="d-grid">
+        <div class="dc w"><div class="dc-k">IP</div><div class="dc-v red mono" id="si-ip">—<span class="d-cur"></span></div></div>
+        <div class="dc w"><div class="dc-k">Location · ISP</div><div class="dc-v cyan mono" id="si-geo" style="font-size:5.5px">session data saved</div></div>
+        <div class="dc"><div class="dc-k">Device</div><div class="dc-v" id="si-dev">—</div></div>
+        <div class="dc"><div class="dc-k">OS</div><div class="dc-v yellow" id="si-os">—</div></div>
+        <div class="dc w"><div class="dc-k">Browser</div><div class="dc-v pink" id="si-br">—</div></div>
+        <div class="dc"><div class="dc-k">Screen</div><div class="dc-v cyan" id="si-sc">—</div></div>
+        <div class="dc"><div class="dc-k">Timezone</div><div class="dc-v" id="si-tz">—</div></div>
+        <div class="dc"><div class="dc-k">Language</div><div class="dc-v" id="si-lang">—</div></div>
+        <div class="dc"><div class="dc-k">Network</div><div class="dc-v yellow" id="si-net">—</div></div>
+        <div class="dc"><div class="dc-k">CPU</div><div class="dc-v" id="si-cpu">—</div></div>
+        <!-- Fix: RAM no longer hardcoded to "36GB" — populated dynamically by ui.js -->
+        <div class="dc"><div class="dc-k">RAM</div><div class="dc-v yellow" id="si-ram">—</div></div>
+        <div class="dc"><div class="dc-k">Load</div><div class="dc-v green" id="si-load">—</div></div>
+        <div class="dc w">
+          <div class="dc-k">FPS</div>
+          <div class="dc-v green" id="si-fps">—<span class="d-cur"></span></div>
+          <div class="fps-bar"><div class="fps-fill" id="fps-fill" style="width:0%"></div></div>
+        </div>
+        <div class="dc w"><div class="dc-k">Time</div><div class="dc-v green mono" id="si-time">—</div></div>
+      </div>
+    </div>
+    <div class="d-ack">Nhấn "Tôi đã hiểu" = đồng ý dữ liệu chỉ mang tính mô phỏng.</div>
+  </div>
+  <div class="d-foot">
+    <div class="d-meta"><span class="d-date" id="d-date">—</span><span class="d-ver" id="d-ver">—</span></div>
+    <!-- Fix: button has two spans for display text — facebook.js opens FB after click -->
+    <button id="dbtn"><span class="bm">Tôi đã hiểu</span><span class="bs">tôi bị gay</span></button>
+  </div>
+</div>
+</div><!-- /dov -->
+
+<!-- Fix: watermark element added (was missing — watermark.js targets #wm276) -->
+<div id="wm276" class="wm-hide" style="position:fixed;bottom:56px;left:50%;transform:translateX(-50%);z-index:500;pointer-events:none;white-space:nowrap;font-size:11px;font-weight:700;color:rgba(192,57,43,.55);letter-spacing:.5px;background:rgba(255,255,255,.6);padding:3px 12px;border-radius:20px;backdrop-filter:blur(4px);transition:opacity .4s">
+  THPT Cẩm Bình · nhathuyydepxhaii
+</div>
+
+<div id="header">
+  <div class="hbar-top">
+    <div class="h-brand">
+      <div class="h-icon">🏫</div>
+      <div>
+        <div class="h-title">THPT Cẩm Bình</div>
+        <div class="h-sub">Tra cứu học sinh · Năm học 2025–2026</div>
+      </div>
+    </div>
+    <div class="h-stats">
+      <div class="stat-pill"><div class="sp-n" id="hTotal">–</div><div class="sp-l">Tổng HS</div></div>
+      <div class="stat-pill"><div class="sp-n" id="hLop">–</div><div class="sp-l">Lớp</div></div>
+      <div class="stat-pill"><div class="sp-n" id="hNam">–</div><div class="sp-l">Nam</div></div>
+      <div class="stat-pill"><div class="sp-n" id="hNu">–</div><div class="sp-l">Nữ</div></div>
+    </div>
+    <button class="dm-btn" id="dmBtn" onclick="toggleDark()">🌙 <span>Dark</span></button>
+  </div>
+
+  <div class="hbar-filters">
+    <div class="search-box" id="searchBox">
+      <span class="s-icon">🔍</span>
+      <input id="SI" type="search"
+        placeholder="Tên, CCCD hoặc SĐT…"
+        autocomplete="off" spellcheck="false">
+      <span class="s-mode-pill" id="smPill">TÊN</span>
+      <!-- Fix: clearSearch() now defined in core.js -->
+      <button class="s-clear" id="SC" onclick="clearSearch()">✕</button>
+      <div class="s-suggest" id="sugBox"></div>
+    </div>
+    <select id="FK" class="h-ctrl">
+      <option value="">📚 Tất cả khối</option>
+      <option value="10">Khối 10</option>
+      <option value="11">Khối 11</option>
+      <option value="12">Khối 12</option>
+    </select>
+    <select id="FL" class="h-ctrl"><option value="">📋 Tất cả lớp</option></select>
+    <select id="FG" class="h-ctrl">
+      <option value="">⚧ Tất cả</option>
+      <option value="Nam">👦 Nam</option>
+      <option value="Nữ">👧 Nữ</option>
+    </select>
+    <!-- Fix: resetAll() now defined in core.js -->
+    <button class="h-btn h-btn-ghost" onclick="resetAll()">↺ <span>Đặt lại</span></button>
+  </div>
+
+  <div class="date-search-row" id="dateSearchRow">
+    <span class="ds-label">Theo:</span>
+    <input id="DSDay"  class="ds-inp" type="number" min="1"    max="31"   placeholder="Ngày"  style="width:60px" oninput="onDateSearch()">
+    <span class="ds-sep">/</span>
+    <input id="DSMon"  class="ds-inp" type="number" min="1"    max="12"   placeholder="Tháng" style="width:68px" oninput="onDateSearch()">
+    <span class="ds-sep">/</span>
+    <input id="DSYear" class="ds-inp" type="number" min="2005" max="2015" placeholder="Năm"   style="width:78px" oninput="onDateSearch()">
+    <button class="ds-clr-btn" onclick="clearDateSearch()">✕ Xóa ngày</button>
+  </div>
+
+  <div class="h-chips" id="chips"></div>
+
+  <div class="h-tabs">
+    <!-- Fix: tabs now always use window.__tab; setTab alias kept for compat -->
+    <button class="tab on"     onclick="window.__tab?window.__tab('table',this):setTab('table',this)">📋</button>
+    <button class="tab"        onclick="window.__tab?window.__tab('card',this):setTab('card',this)">🪪</button>
+    <button class="tab"        onclick="window.__tab?window.__tab('class',this):setTab('class',this)">🏫</button>
+    <button class="tab"        onclick="window.__tab?window.__tab('stats',this):setTab('stats',this)">📊</button>
+    <button class="tab tab-diem" onclick="window.__tab?window.__tab('diem',this):setTab('diem',this)">🎯</button>
+    <!-- Fix: data-v3="news" present here; patches.js injectNewsTab() will skip if this exists -->
+    <button class="tab tab-news" data-v3="news" onclick="window.__tab?window.__tab('news',this):setTab('news',this)">📰</button>
+  </div>
+</div>
+
+<div class="quick-stat-bar" id="quickStatBar" style="display:none">
+  <div class="qs-label">Lọc nhanh</div>
+  <div class="qs-pill qs-bd"  onclick="quickFilter('birthday')"><span class="qs-pill-ico">🎂</span><span class="qs-pill-lbl">SN today</span><strong id="qs-bd">0</strong></div>
+  <div class="qs-div"></div>
+  <div class="qs-pill qs-k10" onclick="quickFilter('k10')"><span class="qs-pill-ico">📘</span><span class="qs-pill-lbl">Khối 10</span><strong id="qs-k10">–</strong></div>
+  <div class="qs-pill qs-k11" onclick="quickFilter('k11')"><span class="qs-pill-ico">📗</span><span class="qs-pill-lbl">Khối 11</span><strong id="qs-k11">–</strong></div>
+  <div class="qs-pill qs-k12" onclick="quickFilter('k12')"><span class="qs-pill-ico">📕</span><span class="qs-pill-lbl">Khối 12</span><strong id="qs-k12">–</strong></div>
+  <div class="qs-div"></div>
+  <div class="qs-pill qs-nam" onclick="quickFilter('nam')"><span class="qs-pill-ico">👦</span><span class="qs-pill-lbl">Nam</span><strong id="qs-nam">–</strong></div>
+  <div class="qs-pill qs-nu"  onclick="quickFilter('nu')"><span class="qs-pill-ico">👧</span><span class="qs-pill-lbl">Nữ</span><strong id="qs-nu">–</strong></div>
+  <div class="qs-div"></div>
+  <!-- Fix: resetAll() defined in core.js -->
+  <div class="qs-pill qs-rst" onclick="resetAll()"><span class="qs-pill-ico">↺</span><span class="qs-pill-lbl">Xóa lọc</span></div>
+</div>
+
+<div class="search-banner" id="searchBanner">
+  <span>💡</span>
+  <span style="color:var(--t2)">Tìm theo <strong>tên</strong>:</span>
+  <span class="sb-badge" id="sbTag"></span>
+  <span id="sbCount" style="font-size:11.5px;color:var(--t3)"></span>
+  <span class="sb-note">Nhập số → tìm CCCD/SĐT</span>
+</div>
+
+<div id="toolbar">
+  <div class="tb-count" id="RC">Đang tải…</div>
+  <div class="tb-right">
+    <span class="tb-lbl">Sắp xếp:</span>
+    <select id="SB" class="tb-sel" onchange="renderAll()">
+      <option value="stt">STT</option>
+      <option value="hoTen">Tên A→Z</option>
+      <option value="lop">Lớp</option>
+      <option value="ngaySinh">Ngày sinh</option>
+      <option value="gioiTinh">Giới tính</option>
+    </select>
+    <span class="tb-lbl">Hiển thị:</span>
+    <select id="PP" class="tb-sel" onchange="page=1;renderAll()">
+      <option value="25">25/trang</option>
+      <option value="50" selected>50/trang</option>
+      <option value="100">100/trang</option>
+      <option value="200">200/trang</option>
+      <option value="9999">Tất cả</option>
+    </select>
+    <div class="density-tog">
+      <button class="dtog-btn on" id="dtD" onclick="setDensity('dense')" title="Thu gọn">▤</button>
+      <button class="dtog-btn"    id="dtL" onclick="setDensity('loose')" title="Thoáng">☰</button>
+    </div>
+  </div>
+</div>
+
+<div id="content">
+  <div id="loadEl" class="skeleton-wrap">
+    <div id="skRows"></div>
+  </div>
+  <div id="viewTable" style="display:none">
+    <div class="tbl-scroll" id="tblScroll">
+      <table id="mainTable">
+        <thead><tr>
+          <th onclick="sortBy('stt')"       data-col="stt"     ><div class="th-in">STT<span class="sarr">↕</span></div></th>
+          <th onclick="sortBy('hoTen')"     data-col="hoTen"   ><div class="th-in">Họ và tên<span class="sarr">↕</span></div></th>
+          <th onclick="sortBy('ngaySinh')"  data-col="ngaySinh"><div class="th-in">Ngày sinh<span class="sarr">↕</span></div></th>
+          <th onclick="sortBy('gioiTinh')"  data-col="gioiTinh"><div class="th-in">Giới tính<span class="sarr">↕</span></div></th>
+          <th onclick="sortBy('lop')"       data-col="lop"     ><div class="th-in">Lớp<span class="sarr">↕</span></div></th>
+          <th><div class="th-in">Địa chỉ</div></th>
+          <th><div class="th-in">CCCD</div></th>
+          <th onclick="sortBy('tenBo')"     data-col="tenBo"   ><div class="th-in">Tên bố<span class="sarr">↕</span></div></th>
+          <th><div class="th-in">SĐT bố</div></th>
+          <th onclick="sortBy('tenMe')"     data-col="tenMe"   ><div class="th-in">Tên mẹ<span class="sarr">↕</span></div></th>
+          <th><div class="th-in">SĐT mẹ</div></th>
+        </tr></thead>
+        <tbody id="TB"></tbody>
+      </table>
+    </div>
+    <div id="pg-tbl"></div>
+  </div>
+  <div id="viewCard" style="display:none">
+    <div class="card-scroll">
+      <div class="cards-grid" id="CG"></div>
+    </div>
+    <div id="pg-card"></div>
+  </div>
+  <div id="viewClass" style="display:none">
+    <div id="clsContent"></div>
+  </div>
+  <div id="viewStats" style="display:none">
+    <div class="stats-tiles" id="sTiles"></div>
+    <div class="charts-grid" id="sCharts"></div>
+  </div>
+  <div id="viewDiem" style="display:none">
+    <!-- diemContent div removed: renderDiem writes directly into viewDiem -->
+  </div>
+  <div id="viewNews" style="display:none;flex:1;overflow-y:auto;min-height:0"></div>
+  <div id="viewPotd" style="display:none;flex:1;overflow-y:auto;min-height:0"></div>
+</div>
+
+<div id="footer">
+  <span>© 2025–2026 <strong>THPT Cẩm Bình</strong></span>
+  <span style="opacity:.3">·</span>
+  <span>Xây dựng bởi <strong>nhathuyydepxhaii</strong></span>
+</div>
+
+<div class="overlay" id="OV" onclick="if(event.target===this)closeModal()">
+  <div class="modal" id="MOD"></div>
+</div>
+<div class="toast" id="toast"></div>
+
+<div class="overlay" id="SM_OV" onclick="if(event.target===this)closeSoulModal()" style="z-index:600">
+  <div class="modal" id="SM_MOD" style="max-width:480px"></div>
+</div>
+
+<!-- Fix: scrollTop button defined here (single source of truth, ui.js hooks it) -->
+<button id="scrollTop" title="Lên đầu (↑)" aria-label="Cuộn về đầu trang">↑</button>
+
+<audio id="player" preload="metadata" style="display:none"></audio>
+
+<!-- Scripts: order matters — core first, then features, then ui patches, then boot -->
+<script src="core.js"></script>
+<script src="astro.js"></script>
+<script src="diem.js"></script>
+<script src="news.js"></script>
+<script src="ui.js"></script>
+<script src="patches.js"></script>
+<script src="facebook.js"></script>
+<script src="audio.js"></script>
+<script src="watermark.js"></script>
+</body>
+</html>

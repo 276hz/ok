@@ -1,0 +1,6780 @@
+{
+  "meta": {
+    "hocKy": "Giữa HK2",
+    "namHoc": "2025-2026",
+    "capNhat": "2026-03-20",
+    "ghiChu": "Điểm thi giữa học kỳ II - Khối 10"
+  },
+  "monHoc": [
+    "Toán",
+    "Văn",
+    "Anh",
+    "Lý",
+    "Hóa",
+    "Sinh",
+    "Sử",
+    "Địa",
+    "KTPL"
+  ],
+  "diemHocSinh": [
+    {
+      "stt": 1,
+      "sbd": "10000002",
+      "hoTen": "NGUYỄN ĐÌNH BÌNH AN",
+      "lop": "10A1",
+      "diem": {
+        "Toán": 8.0,
+        "Văn": 7.75,
+        "Lý": 9.0,
+        "Hóa": 8.75,
+        "Sinh": 8.75
+      },
+      "tong": 42.25,
+      "tbHocKy": 8.45,
+      "xepLoai": "Giỏi"
+    },
+    {
+      "stt": 2,
+      "sbd": "10000019",
+      "hoTen": "NGUYỄN NGỌC ANH",
+      "lop": "10A1",
+      "diem": {
+        "Toán": 7.5,
+        "Văn": 8.5,
+        "Lý": 6.75,
+        "Hóa": 8.0,
+        "Sinh": 6.1
+      },
+      "tong": 36.85,
+      "tbHocKy": 7.37,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 3,
+      "sbd": "10000042",
+      "hoTen": "NGUYỄN PHƯƠNG BẮC",
+      "lop": "10A1",
+      "diem": {
+        "Toán": 6.45,
+        "Văn": 7.75,
+        "Lý": 6.5,
+        "Hóa": 8.0,
+        "Sinh": 4.85
+      },
+      "tong": 33.55,
+      "tbHocKy": 6.71,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 4,
+      "sbd": "10000047",
+      "hoTen": "PHAN NHẬT BÌNH",
+      "lop": "10A1",
+      "diem": {
+        "Toán": 7.75,
+        "Văn": 8.0,
+        "Lý": 7.35,
+        "Hóa": 6.5,
+        "Sinh": 6.5
+      },
+      "tong": 36.1,
+      "tbHocKy": 7.22,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 5,
+      "sbd": "10000051",
+      "hoTen": "PHAN THỊ NGỌC CHÂU",
+      "lop": "10A1",
+      "diem": {
+        "Toán": 9.75,
+        "Văn": 6.5,
+        "Lý": 8.75,
+        "Hóa": 8.75,
+        "Sinh": 5.35
+      },
+      "tong": 39.1,
+      "tbHocKy": 7.82,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 6,
+      "sbd": "10000113",
+      "hoTen": "VÕ VǍN HẬU",
+      "lop": "10A1",
+      "diem": {
+        "Toán": 8.5,
+        "Văn": 7.75,
+        "Lý": 7.0,
+        "Hóa": 9.5,
+        "Sinh": 7.5
+      },
+      "tong": 40.25,
+      "tbHocKy": 8.05,
+      "xepLoai": "Giỏi"
+    },
+    {
+      "stt": 7,
+      "sbd": "10000119",
+      "hoTen": "TRẦN TRUNG HIẾU",
+      "lop": "10A1",
+      "diem": {
+        "Toán": 7.0,
+        "Văn": 8.5,
+        "Lý": 7.75,
+        "Hóa": 7.25,
+        "Sinh": 5.25
+      },
+      "tong": 35.75,
+      "tbHocKy": 7.15,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 8,
+      "sbd": "10000127",
+      "hoTen": "TRẦN VIỆT HOÀNG",
+      "lop": "10A1",
+      "diem": {
+        "Toán": 8.75,
+        "Văn": 5.75,
+        "Lý": 9.0,
+        "Hóa": 7.75,
+        "Sinh": 5.75
+      },
+      "tong": 37.0,
+      "tbHocKy": 7.4,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 9,
+      "sbd": "10000137",
+      "hoTen": "ĐẶNG QUANG HUY",
+      "lop": "10A1",
+      "diem": {
+        "Toán": 9.5,
+        "Văn": 6.25,
+        "Lý": 9.75,
+        "Hóa": 9.75,
+        "Sinh": 9.0
+      },
+      "tong": 44.25,
+      "tbHocKy": 8.85,
+      "xepLoai": "Giỏi"
+    },
+    {
+      "stt": 10,
+      "sbd": "10000163",
+      "hoTen": "ĐẬU TRẦN NGỌC KHANH",
+      "lop": "10A1",
+      "diem": {
+        "Toán": 9.25,
+        "Văn": 7.75,
+        "Lý": 6.75,
+        "Hóa": 9.25,
+        "Sinh": 8.25
+      },
+      "tong": 41.25,
+      "tbHocKy": 8.25,
+      "xepLoai": "Giỏi"
+    },
+    {
+      "stt": 11,
+      "sbd": "10000173",
+      "hoTen": "NGUYỄN HOÀNG LÂM",
+      "lop": "10A1",
+      "diem": {
+        "Toán": 7.5,
+        "Văn": 7.5,
+        "Lý": 6.5,
+        "Hóa": 7.5,
+        "Sinh": 7.0
+      },
+      "tong": 36.0,
+      "tbHocKy": 7.2,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 12,
+      "sbd": "10000174",
+      "hoTen": "TRẦN VǍN TÙNG LÂM",
+      "lop": "10A1",
+      "diem": {
+        "Toán": 8.5,
+        "Văn": 7.25,
+        "Lý": 5.5,
+        "Hóa": 7.75,
+        "Sinh": 7.5
+      },
+      "tong": 36.5,
+      "tbHocKy": 7.3,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 13,
+      "sbd": "10000182",
+      "hoTen": "NGUYỄN THỊ HÀ LINH",
+      "lop": "10A1",
+      "diem": {
+        "Toán": 7.75,
+        "Văn": 8.25,
+        "Lý": 7.75,
+        "Hóa": 8.0,
+        "Sinh": 6.1
+      },
+      "tong": 37.85,
+      "tbHocKy": 7.57,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 14,
+      "sbd": "10000185",
+      "hoTen": "PHAN DIỆU LINH",
+      "lop": "10A1",
+      "diem": {
+        "Toán": 8.75,
+        "Văn": 8.25,
+        "Lý": 7.75,
+        "Hóa": 9.75,
+        "Sinh": 5.85
+      },
+      "tong": 40.35,
+      "tbHocKy": 8.07,
+      "xepLoai": "Giỏi"
+    },
+    {
+      "stt": 15,
+      "sbd": "10000186",
+      "hoTen": "TRẦN THỊ DIỆU LINH",
+      "lop": "10A1",
+      "diem": {
+        "Toán": 6.6,
+        "Văn": 7.5,
+        "Lý": 7.1,
+        "Hóa": 8.25,
+        "Sinh": 5.35
+      },
+      "tong": 34.8,
+      "tbHocKy": 6.96,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 16,
+      "sbd": "10000192",
+      "hoTen": "TRẦN ĐÌNH LONG",
+      "lop": "10A1",
+      "diem": {
+        "Toán": 9.75,
+        "Văn": 7.5,
+        "Lý": 9.0,
+        "Hóa": 9.75,
+        "Sinh": 5.5
+      },
+      "tong": 41.5,
+      "tbHocKy": 8.3,
+      "xepLoai": "Giỏi"
+    },
+    {
+      "stt": 17,
+      "sbd": "10000211",
+      "hoTen": "NGUYỄN NGỌC MINH",
+      "lop": "10A1",
+      "diem": {
+        "Toán": 6.85,
+        "Văn": 7.25,
+        "Lý": 6.25,
+        "Hóa": 6.25,
+        "Sinh": 5.2
+      },
+      "tong": 31.8,
+      "tbHocKy": 6.36,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 18,
+      "sbd": "10000213",
+      "hoTen": "NGUYỄN QUANG MINH",
+      "lop": "10A1",
+      "diem": {
+        "Toán": 7.1,
+        "Văn": 6.75,
+        "Lý": 8.75,
+        "Hóa": 8.25,
+        "Sinh": 4.7
+      },
+      "tong": 35.55,
+      "tbHocKy": 7.11,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 19,
+      "sbd": "10000282",
+      "hoTen": "BÙI VǍN PHƯỚC",
+      "lop": "10A1",
+      "diem": {
+        "Toán": 8.6,
+        "Văn": 7.75,
+        "Lý": 7.0,
+        "Hóa": 8.5,
+        "Sinh": 7.25
+      },
+      "tong": 39.1,
+      "tbHocKy": 7.82,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 20,
+      "sbd": "10000298",
+      "hoTen": "LÊ HOÀNG THIÊN QUÝ",
+      "lop": "10A1",
+      "diem": {
+        "Toán": 6.75,
+        "Văn": 7.5,
+        "Lý": 7.5,
+        "Hóa": 7.25,
+        "Sinh": 7.5
+      },
+      "tong": 36.5,
+      "tbHocKy": 7.3,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 21,
+      "sbd": "10000325",
+      "hoTen": "NGUYỄN HỮU THÀNH",
+      "lop": "10A1",
+      "diem": {
+        "Toán": 6.75,
+        "Văn": 7.75,
+        "Lý": 9.25,
+        "Hóa": 9.75,
+        "Sinh": 7.75
+      },
+      "tong": 41.25,
+      "tbHocKy": 8.25,
+      "xepLoai": "Giỏi"
+    },
+    {
+      "stt": 22,
+      "sbd": "10000363",
+      "hoTen": "TRẦN DANH TOÀN",
+      "lop": "10A1",
+      "diem": {
+        "Toán": 8.6,
+        "Văn": 7.5,
+        "Lý": 8.5,
+        "Hóa": 9.5,
+        "Sinh": 7.0
+      },
+      "tong": 41.1,
+      "tbHocKy": 8.22,
+      "xepLoai": "Giỏi"
+    },
+    {
+      "stt": 23,
+      "sbd": "10000420",
+      "hoTen": "NGUYỄN KHÁNH VY",
+      "lop": "10A1",
+      "diem": {
+        "Toán": 8.75,
+        "Văn": 8.5,
+        "Lý": 8.0,
+        "Hóa": 8.75,
+        "Sinh": 8.75
+      },
+      "tong": 42.75,
+      "tbHocKy": 8.55,
+      "xepLoai": "Giỏi"
+    },
+    {
+      "stt": 24,
+      "sbd": "10000004",
+      "hoTen": "VÕ THÁI AN",
+      "lop": "10A10",
+      "diem": {
+        "Toán": 5.75,
+        "Văn": 7.0,
+        "Anh": 3.75,
+        "Sử": 5.5,
+        "Địa": 4.3
+      },
+      "tong": 26.25,
+      "tbHocKy": 5.25,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 25,
+      "sbd": "10000026",
+      "hoTen": "DƯƠNG THỊ NGỌC ÁNH",
+      "lop": "10A10",
+      "diem": {
+        "Toán": 4.35,
+        "Văn": 8.0,
+        "Anh": 4.25,
+        "Sử": 6.5,
+        "Địa": 5.9
+      },
+      "tong": 28.95,
+      "tbHocKy": 5.79,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 26,
+      "sbd": "10000040",
+      "hoTen": "NGUYỄN VǍN BẢO",
+      "lop": "10A10",
+      "diem": {
+        "Toán": 4.1,
+        "Văn": 7.5,
+        "Anh": 6.0,
+        "Sử": 6.75,
+        "Địa": 5.0
+      },
+      "tong": 29.35,
+      "tbHocKy": 5.87,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 27,
+      "sbd": "10000056",
+      "hoTen": "HOÀNG VǍN CHIẾN",
+      "lop": "10A10",
+      "diem": {
+        "Toán": 6.75,
+        "Văn": 7.25,
+        "Anh": 5.75,
+        "Sử": 5.7,
+        "Địa": 7.5
+      },
+      "tong": 32.95,
+      "tbHocKy": 6.59,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 28,
+      "sbd": "10000058",
+      "hoTen": "TRẦN LÊ VǍN CÔNG",
+      "lop": "10A10",
+      "diem": {
+        "Toán": 5.75,
+        "Văn": 8.25,
+        "Anh": 4.5,
+        "Sử": 7.85,
+        "Địa": 6.4
+      },
+      "tong": 32.7,
+      "tbHocKy": 6.54,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 29,
+      "sbd": "10000065",
+      "hoTen": "NGUYỄN NGỌC DIỄM",
+      "lop": "10A10",
+      "diem": {
+        "Toán": 6.25,
+        "Văn": 8.0,
+        "Anh": 6.25,
+        "Sử": 7.0,
+        "Địa": 8.3
+      },
+      "tong": 35.75,
+      "tbHocKy": 7.15,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 30,
+      "sbd": "10000066",
+      "hoTen": "TRẦN THỊ NGỌC DIỆP",
+      "lop": "10A10",
+      "diem": {
+        "Toán": 5.35,
+        "Văn": 8.25,
+        "Anh": 5.5,
+        "Sử": 7.5,
+        "Địa": 6.3
+      },
+      "tong": 32.85,
+      "tbHocKy": 6.57,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 31,
+      "sbd": "10000082",
+      "hoTen": "PHẠM KHÁNH ÐAN",
+      "lop": "10A10",
+      "diem": {
+        "Toán": 6.75,
+        "Văn": 7.5,
+        "Anh": 4.25,
+        "Sử": 5.75,
+        "Địa": 7.0
+      },
+      "tong": 31.25,
+      "tbHocKy": 6.25,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 32,
+      "sbd": "10000106",
+      "hoTen": "NGUYỄN THỊ HỒNG HANH",
+      "lop": "10A10",
+      "diem": {
+        "Toán": 5.75,
+        "Văn": 8.0,
+        "Anh": 5.0,
+        "Sử": 8.5,
+        "Địa": 5.5
+      },
+      "tong": 32.75,
+      "tbHocKy": 6.55,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 33,
+      "sbd": "10000110",
+      "hoTen": "NGUYỄN THỊ DIỄM HẰNG",
+      "lop": "10A10",
+      "diem": {
+        "Toán": 7.5,
+        "Văn": 8.0,
+        "Anh": 3.5,
+        "Sử": 6.5,
+        "Địa": 7.5
+      },
+      "tong": 33.0,
+      "tbHocKy": 6.6,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 34,
+      "sbd": "10000111",
+      "hoTen": "PHẠM THỊ NGỌC HẰNG",
+      "lop": "10A10",
+      "diem": {
+        "Toán": 7.25,
+        "Văn": 8.0,
+        "Anh": 5.75,
+        "Sử": 8.5,
+        "Địa": 8.8
+      },
+      "tong": 38.25,
+      "tbHocKy": 7.65,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 35,
+      "sbd": "10000157",
+      "hoTen": "ĐẶNG THỊ HOÀI HƯƠNG",
+      "lop": "10A10",
+      "diem": {
+        "Toán": 7.5,
+        "Văn": 8.75,
+        "Anh": 6.5,
+        "Sử": 8.0,
+        "Địa": 9.0
+      },
+      "tong": 39.75,
+      "tbHocKy": 7.95,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 36,
+      "sbd": "10000158",
+      "hoTen": "NGUYỄN THỊ QUỲNH HƯƠNG",
+      "lop": "10A10",
+      "diem": {
+        "Toán": 7.75,
+        "Văn": 8.5,
+        "Anh": 5.25,
+        "Sử": 7.5,
+        "Địa": 8.5
+      },
+      "tong": 37.5,
+      "tbHocKy": 7.5,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 37,
+      "sbd": "10000165",
+      "hoTen": "HOÀNG QUỐC KHÁNH",
+      "lop": "10A10",
+      "diem": {},
+      "tong": null,
+      "tbHocKy": null,
+      "xepLoai": null
+    },
+    {
+      "stt": 38,
+      "sbd": "10000169",
+      "hoTen": "LÊ THỊ HỒNG KHUYÊN",
+      "lop": "10A10",
+      "diem": {
+        "Toán": 6.0,
+        "Văn": 9.0,
+        "Anh": 4.5,
+        "Sử": 7.35,
+        "Địa": 8.5
+      },
+      "tong": 35.35,
+      "tbHocKy": 7.07,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 39,
+      "sbd": "10000176",
+      "hoTen": "LƯU QUỐC HA LIM",
+      "lop": "10A10",
+      "diem": {},
+      "tong": null,
+      "tbHocKy": null,
+      "xepLoai": null
+    },
+    {
+      "stt": 40,
+      "sbd": "10000220",
+      "hoTen": "NGUYỄN LÊ NA",
+      "lop": "10A10",
+      "diem": {
+        "Toán": 4.5,
+        "Văn": 7.25,
+        "Anh": 3.25,
+        "Sử": 7.75,
+        "Địa": 6.0
+      },
+      "tong": 28.75,
+      "tbHocKy": 5.75,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 41,
+      "sbd": "10000227",
+      "hoTen": "ÐOÀN THỊ THÚY NGÂN",
+      "lop": "10A10",
+      "diem": {
+        "Toán": 6.75,
+        "Văn": 8.5,
+        "Anh": 4.25,
+        "Sử": 6.85,
+        "Địa": 6.8
+      },
+      "tong": 33.1,
+      "tbHocKy": 6.62,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 42,
+      "sbd": "10000231",
+      "hoTen": "LÊ BẢO NGỌC",
+      "lop": "10A10",
+      "diem": {
+        "Toán": 3.35,
+        "Văn": 8.25,
+        "Anh": 4.75,
+        "Sử": 6.5,
+        "Địa": 6.3
+      },
+      "tong": 29.1,
+      "tbHocKy": 5.82,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 43,
+      "sbd": "10000242",
+      "hoTen": "ĐẶNG HỮU NGUYÊN",
+      "lop": "10A10",
+      "diem": {
+        "Toán": 6.7,
+        "Văn": 9.0,
+        "Anh": 6.25,
+        "Sử": 7.25,
+        "Địa": 6.4
+      },
+      "tong": 35.55,
+      "tbHocKy": 7.11,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 44,
+      "sbd": "10000247",
+      "hoTen": "NGUYỄN THỊ THẢO NGUYÊN",
+      "lop": "10A10",
+      "diem": {
+        "Toán": 5.75,
+        "Văn": 8.5,
+        "Anh": 5.25,
+        "Sử": 6.5,
+        "Địa": 5.5
+      },
+      "tong": 31.5,
+      "tbHocKy": 6.3,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 45,
+      "sbd": "10000251",
+      "hoTen": "LÊ THỊ BẢO NHÂN",
+      "lop": "10A10",
+      "diem": {
+        "Toán": 7.25,
+        "Văn": 7.75,
+        "Anh": 6.25,
+        "Sử": 6.0,
+        "Địa": 6.5
+      },
+      "tong": 33.75,
+      "tbHocKy": 6.75,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 46,
+      "sbd": "10000259",
+      "hoTen": "BIỆN NGUYỄN Ý NHI",
+      "lop": "10A10",
+      "diem": {
+        "Toán": 5.45,
+        "Văn": 7.75,
+        "Anh": 4.25,
+        "Sử": 6.5,
+        "Địa": 4.8
+      },
+      "tong": 28.7,
+      "tbHocKy": 5.74,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 47,
+      "sbd": "10000260",
+      "hoTen": "BÙI THỊ YẾN NHI",
+      "lop": "10A10",
+      "diem": {
+        "Toán": 7.0,
+        "Văn": 8.25,
+        "Anh": 5.25,
+        "Sử": 5.95,
+        "Địa": 6.8
+      },
+      "tong": 33.2,
+      "tbHocKy": 6.64,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 48,
+      "sbd": "10000277",
+      "hoTen": "NGUYỄN ĐỨC PHÁT",
+      "lop": "10A10",
+      "diem": {
+        "Toán": 3.85,
+        "Văn": 6.0,
+        "Anh": 4.5,
+        "Sử": 4.85,
+        "Địa": 4.4
+      },
+      "tong": 23.55,
+      "tbHocKy": 4.71,
+      "xepLoai": "Yếu"
+    },
+    {
+      "stt": 49,
+      "sbd": "10000295",
+      "hoTen": "NGUYỄN VǍN QUÂN",
+      "lop": "10A10",
+      "diem": {
+        "Toán": 7.25,
+        "Văn": 8.0,
+        "Anh": 6.25,
+        "Sử": 7.75,
+        "Địa": 6.5
+      },
+      "tong": 35.75,
+      "tbHocKy": 7.15,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 50,
+      "sbd": "10000302",
+      "hoTen": "NGUYỄN THỊ QUỲNH",
+      "lop": "10A10",
+      "diem": {
+        "Toán": 6.6,
+        "Văn": 8.25,
+        "Anh": 5.0,
+        "Sử": 5.0,
+        "Địa": 4.3
+      },
+      "tong": 29.1,
+      "tbHocKy": 5.82,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 51,
+      "sbd": "10000313",
+      "hoTen": "NGUYỄN THỊ THANH TÂM",
+      "lop": "10A10",
+      "diem": {
+        "Toán": 4.45,
+        "Văn": 8.5,
+        "Anh": 2.5,
+        "Sử": 6.5,
+        "Địa": 6.5
+      },
+      "tong": 28.45,
+      "tbHocKy": 5.69,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 52,
+      "sbd": "10000321",
+      "hoTen": "TRẦN DANH THÁI",
+      "lop": "10A10",
+      "diem": {
+        "Toán": 5.1,
+        "Văn": 7.75,
+        "Anh": 5.0,
+        "Sử": 4.85,
+        "Địa": 3.3
+      },
+      "tong": 25.95,
+      "tbHocKy": 5.19,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 53,
+      "sbd": "10000331",
+      "hoTen": "TRẦN PHAN PHƯƠNG THẢO",
+      "lop": "10A10",
+      "diem": {
+        "Toán": 5.5,
+        "Văn": 6.5,
+        "Anh": 4.25,
+        "Sử": 4.35,
+        "Địa": 5.8
+      },
+      "tong": 26.35,
+      "tbHocKy": 5.27,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 54,
+      "sbd": "10000343",
+      "hoTen": "LƯU NGUYỄN PHƯƠNG THÚY",
+      "lop": "10A10",
+      "diem": {
+        "Toán": 5.5,
+        "Văn": 8.5,
+        "Anh": 5.5,
+        "Sử": 7.0,
+        "Địa": 5.8
+      },
+      "tong": 32.25,
+      "tbHocKy": 6.45,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 55,
+      "sbd": "10000353",
+      "hoTen": "NGUYỄN THỊ HOÀI THƯƠNG",
+      "lop": "10A10",
+      "diem": {
+        "Toán": 4.25,
+        "Văn": 8.5,
+        "Anh": 6.0,
+        "Sử": 6.85,
+        "Địa": 7.3
+      },
+      "tong": 32.85,
+      "tbHocKy": 6.57,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 56,
+      "sbd": "10000356",
+      "hoTen": "NGUYỄN THỊ THỦY TIÊN",
+      "lop": "10A10",
+      "diem": {
+        "Toán": 6.25,
+        "Văn": 8.5,
+        "Anh": 5.5,
+        "Sử": 6.85,
+        "Địa": 6.3
+      },
+      "tong": 33.35,
+      "tbHocKy": 6.67,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 57,
+      "sbd": "10000367",
+      "hoTen": "ĐẶNG THỊ QUỲNH TRANG",
+      "lop": "10A10",
+      "diem": {
+        "Toán": 7.0,
+        "Văn": 8.75,
+        "Anh": 5.0,
+        "Sử": 7.25,
+        "Địa": 8.3
+      },
+      "tong": 36.25,
+      "tbHocKy": 7.25,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 58,
+      "sbd": "10000370",
+      "hoTen": "NGUYỄN THỊ THÙY TRANG",
+      "lop": "10A10",
+      "diem": {
+        "Toán": 7.25,
+        "Văn": 8.5,
+        "Anh": 5.75,
+        "Sử": 7.25,
+        "Địa": 8.3
+      },
+      "tong": 37.0,
+      "tbHocKy": 7.4,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 59,
+      "sbd": "10000394",
+      "hoTen": "NGUYỄN DUY TUẤN",
+      "lop": "10A10",
+      "diem": {
+        "Toán": 3.85,
+        "Văn": 6.75,
+        "Anh": 3.75,
+        "Sử": 6.25,
+        "Địa": 5.0
+      },
+      "tong": 25.6,
+      "tbHocKy": 5.12,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 60,
+      "sbd": "10000408",
+      "hoTen": "HÀ THỊ VIỆT",
+      "lop": "10A10",
+      "diem": {
+        "Toán": 6.75,
+        "Văn": 8.5,
+        "Anh": 6.75,
+        "Sử": 6.25,
+        "Địa": 7.8
+      },
+      "tong": 36.0,
+      "tbHocKy": 7.2,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 61,
+      "sbd": "10000424",
+      "hoTen": "NGUYỄN THỊ HẢI YẾN",
+      "lop": "10A10",
+      "diem": {
+        "Toán": 7.0,
+        "Văn": 8.0,
+        "Anh": 4.5,
+        "Sử": 7.5,
+        "Địa": 7.5
+      },
+      "tong": 34.5,
+      "tbHocKy": 6.9,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 62,
+      "sbd": "10000005",
+      "hoTen": "DƯƠNG PHƯƠNG ANH",
+      "lop": "10A11",
+      "diem": {
+        "Toán": 6.75,
+        "Văn": 8.5,
+        "Anh": 6.0,
+        "Sử": 7.5,
+        "Địa": 6.4
+      },
+      "tong": 35.1,
+      "tbHocKy": 7.02,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 63,
+      "sbd": "10000025",
+      "hoTen": "NGUYỄN MINH ÁNH",
+      "lop": "10A11",
+      "diem": {
+        "Toán": 5.25,
+        "Văn": 8.75,
+        "Anh": 4.25,
+        "Sử": 4.75,
+        "Địa": 6.8
+      },
+      "tong": 29.75,
+      "tbHocKy": 5.95,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 64,
+      "sbd": "10000030",
+      "hoTen": "VƯƠNG THIÊN BẢO",
+      "lop": "10A11",
+      "diem": {
+        "Toán": 5.7,
+        "Văn": 7.75,
+        "Anh": 4.25,
+        "Sử": 6.25,
+        "Địa": 6.5
+      },
+      "tong": 30.45,
+      "tbHocKy": 6.09,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 65,
+      "sbd": "10000075",
+      "hoTen": "TRẦN THỊ THÙY DƯƠNG",
+      "lop": "10A11",
+      "diem": {
+        "Toán": 7.25,
+        "Văn": 8.75,
+        "Anh": 7.0,
+        "Sử": 8.25,
+        "Địa": 8.3
+      },
+      "tong": 39.5,
+      "tbHocKy": 7.9,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 66,
+      "sbd": "10000096",
+      "hoTen": "LÊ TRUNG ĐỊNH",
+      "lop": "10A11",
+      "diem": {
+        "Toán": 7.5,
+        "Văn": 7.5,
+        "Anh": 5.0,
+        "Sử": 8.0,
+        "Địa": 7.0
+      },
+      "tong": 35.0,
+      "tbHocKy": 7.0,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 67,
+      "sbd": "10000101",
+      "hoTen": "HOÀNG KHÁNH HÀ",
+      "lop": "10A11",
+      "diem": {
+        "Toán": 5.35,
+        "Văn": 8.0,
+        "Anh": 5.75,
+        "Sử": 7.35,
+        "Địa": 5.3
+      },
+      "tong": 31.7,
+      "tbHocKy": 6.34,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 68,
+      "sbd": "10000108",
+      "hoTen": "NGUYỄN THỊ THANH HẰNG",
+      "lop": "10A11",
+      "diem": {
+        "Toán": 9.0,
+        "Văn": 8.0,
+        "Anh": 7.25,
+        "Sử": 7.75,
+        "Địa": 9.5
+      },
+      "tong": 41.5,
+      "tbHocKy": 8.3,
+      "xepLoai": "Giỏi"
+    },
+    {
+      "stt": 69,
+      "sbd": "10000134",
+      "hoTen": "NGUYỄN GIA HUY",
+      "lop": "10A11",
+      "diem": {
+        "Toán": 8.0,
+        "Văn": 8.0,
+        "Anh": 5.25,
+        "Sử": 8.0,
+        "Địa": 8.8
+      },
+      "tong": 38.0,
+      "tbHocKy": 7.6,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 70,
+      "sbd": "10000135",
+      "hoTen": "NGUYỄN QUANG HUY",
+      "lop": "10A11",
+      "diem": {
+        "Toán": 8.0,
+        "Văn": 7.5,
+        "Anh": 6.25,
+        "Sử": 7.5,
+        "Địa": 9.0
+      },
+      "tong": 38.25,
+      "tbHocKy": 7.65,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 71,
+      "sbd": "10000156",
+      "hoTen": "HỒ QUỲNH HƯƠNG",
+      "lop": "10A11",
+      "diem": {
+        "Toán": 8.5,
+        "Văn": 7.25,
+        "Anh": 7.0,
+        "Sử": 7.25,
+        "Địa": 7.8
+      },
+      "tong": 37.75,
+      "tbHocKy": 7.55,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 72,
+      "sbd": "10000178",
+      "hoTen": "TỐNG KHÁNH LINH",
+      "lop": "10A11",
+      "diem": {
+        "Toán": 7.1,
+        "Văn": 8.5,
+        "Anh": 5.75,
+        "Sử": 6.75,
+        "Địa": 9.5
+      },
+      "tong": 37.6,
+      "tbHocKy": 7.52,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 73,
+      "sbd": "10000189",
+      "hoTen": "BÙI VĂN BẢO LONG",
+      "lop": "10A11",
+      "diem": {
+        "Toán": 7.5,
+        "Văn": 7.5,
+        "Anh": 6.0,
+        "Sử": 8.0,
+        "Địa": 7.8
+      },
+      "tong": 36.75,
+      "tbHocKy": 7.35,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 74,
+      "sbd": "10000214",
+      "hoTen": "PHAN TRÀ MY",
+      "lop": "10A11",
+      "diem": {
+        "Toán": 6.5,
+        "Văn": 7.5,
+        "Anh": 4.0,
+        "Sử": 6.25,
+        "Địa": 5.4
+      },
+      "tong": 29.6,
+      "tbHocKy": 5.92,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 75,
+      "sbd": "10000225",
+      "hoTen": "NGUYỄN BÙI KHÁNH NGÂN",
+      "lop": "10A11",
+      "diem": {
+        "Toán": 7.25,
+        "Văn": 8.0,
+        "Anh": 5.5,
+        "Sử": 6.0,
+        "Địa": 8.5
+      },
+      "tong": 35.25,
+      "tbHocKy": 7.05,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 76,
+      "sbd": "10000226",
+      "hoTen": "NGUYỄN THỊ NGÂN",
+      "lop": "10A11",
+      "diem": {
+        "Toán": 6.25,
+        "Văn": 8.75,
+        "Anh": 5.25,
+        "Sử": 7.1,
+        "Địa": 8.3
+      },
+      "tong": 35.6,
+      "tbHocKy": 7.12,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 77,
+      "sbd": "10000276",
+      "hoTen": "LÊ ĐỨC PHÁT",
+      "lop": "10A11",
+      "diem": {
+        "Toán": 9.0,
+        "Văn": 8.75,
+        "Anh": 5.5,
+        "Sử": 7.75,
+        "Địa": 8.5
+      },
+      "tong": 39.5,
+      "tbHocKy": 7.9,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 78,
+      "sbd": "10000281",
+      "hoTen": "HOÀNG MINH PHÚC",
+      "lop": "10A11",
+      "diem": {
+        "Toán": 7.6,
+        "Văn": 8.5,
+        "Anh": 8.25,
+        "Sử": 7.0,
+        "Địa": 6.0
+      },
+      "tong": 37.35,
+      "tbHocKy": 7.47,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 79,
+      "sbd": "10000283",
+      "hoTen": "NGUYỄN THỊ PHƯƠNG",
+      "lop": "10A11",
+      "diem": {
+        "Toán": 7.2,
+        "Văn": 8.25,
+        "Anh": 6.75,
+        "Sử": 7.0,
+        "Địa": 5.6
+      },
+      "tong": 34.8,
+      "tbHocKy": 6.96,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 80,
+      "sbd": "10000296",
+      "hoTen": "TRẦN ANH QUÂN",
+      "lop": "10A11",
+      "diem": {
+        "Toán": 7.75,
+        "Văn": 8.5,
+        "Anh": 5.5,
+        "Sử": 7.75,
+        "Địa": 5.9
+      },
+      "tong": 35.35,
+      "tbHocKy": 7.07,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 81,
+      "sbd": "10000312",
+      "hoTen": "ĐẶNG THỊ BĂNG TÂM",
+      "lop": "10A11",
+      "diem": {
+        "Toán": 7.25,
+        "Văn": 9.0,
+        "Anh": 6.5,
+        "Sử": 9.25,
+        "Địa": 8.0
+      },
+      "tong": 40.0,
+      "tbHocKy": 8.0,
+      "xepLoai": "Giỏi"
+    },
+    {
+      "stt": 82,
+      "sbd": "10000316",
+      "hoTen": "PHẠM MẠNH TÂN",
+      "lop": "10A11",
+      "diem": {
+        "Toán": 6.25,
+        "Văn": 8.0,
+        "Anh": 4.5,
+        "Sử": 5.25,
+        "Địa": 5.4
+      },
+      "tong": 29.35,
+      "tbHocKy": 5.87,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 83,
+      "sbd": "10000319",
+      "hoTen": "NGUYỄN VĂN TÂY",
+      "lop": "10A11",
+      "diem": {
+        "Toán": 6.75,
+        "Văn": 8.25,
+        "Anh": 6.75,
+        "Sử": 7.5,
+        "Địa": 7.8
+      },
+      "tong": 37.0,
+      "tbHocKy": 7.4,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 84,
+      "sbd": "10000320",
+      "hoTen": "NGUYỄN VĂN THÁI",
+      "lop": "10A11",
+      "diem": {
+        "Toán": 7.25,
+        "Văn": 7.75,
+        "Anh": 2.5,
+        "Sử": 6.6,
+        "Địa": 3.3
+      },
+      "tong": 27.35,
+      "tbHocKy": 5.47,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 85,
+      "sbd": "10000327",
+      "hoTen": "TRẦN THỊ PHƯƠNG THẢO",
+      "lop": "10A11",
+      "diem": {
+        "Toán": 7.35,
+        "Văn": 8.5,
+        "Anh": 6.0,
+        "Sử": 7.75,
+        "Địa": 8.0
+      },
+      "tong": 37.6,
+      "tbHocKy": 7.52,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 86,
+      "sbd": "10000344",
+      "hoTen": "DƯƠNG TRẦN ANH THƯ",
+      "lop": "10A11",
+      "diem": {
+        "Toán": 8.1,
+        "Văn": 8.25,
+        "Anh": 7.25,
+        "Sử": 8.0,
+        "Địa": 7.8
+      },
+      "tong": 39.35,
+      "tbHocKy": 7.87,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 87,
+      "sbd": "10000346",
+      "hoTen": "TRẦN ANH THƯ",
+      "lop": "10A11",
+      "diem": {
+        "Toán": 9.0,
+        "Văn": 8.25,
+        "Anh": 7.75,
+        "Sử": 9.25,
+        "Địa": 8.3
+      },
+      "tong": 42.5,
+      "tbHocKy": 8.5,
+      "xepLoai": "Giỏi"
+    },
+    {
+      "stt": 88,
+      "sbd": "10000350",
+      "hoTen": "HỒ LÝ THỰC",
+      "lop": "10A11",
+      "diem": {
+        "Toán": 6.0,
+        "Văn": 8.25,
+        "Anh": 4.5,
+        "Sử": 8.75,
+        "Địa": 7.0
+      },
+      "tong": 34.5,
+      "tbHocKy": 6.9,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 89,
+      "sbd": "10000351",
+      "hoTen": "NGUYỄN TRẦN HUYỀN THƯƠNG",
+      "lop": "10A11",
+      "diem": {
+        "Toán": 7.0,
+        "Văn": 8.5,
+        "Anh": 5.75,
+        "Sử": 8.5,
+        "Địa": 6.5
+      },
+      "tong": 36.25,
+      "tbHocKy": 7.25,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 90,
+      "sbd": "10000362",
+      "hoTen": "LÊ DUY TOÀN",
+      "lop": "10A11",
+      "diem": {
+        "Toán": 8.5,
+        "Văn": 8.5,
+        "Anh": 7.0,
+        "Sử": 8.25,
+        "Địa": 8.0
+      },
+      "tong": 40.25,
+      "tbHocKy": 8.05,
+      "xepLoai": "Giỏi"
+    },
+    {
+      "stt": 91,
+      "sbd": "10000364",
+      "hoTen": "BÙI THỊ PHƯƠNG TRANG",
+      "lop": "10A11",
+      "diem": {
+        "Toán": 8.5,
+        "Văn": 9.0,
+        "Anh": 8.0,
+        "Sử": 7.5,
+        "Địa": 8.0
+      },
+      "tong": 41.0,
+      "tbHocKy": 8.2,
+      "xepLoai": "Giỏi"
+    },
+    {
+      "stt": 92,
+      "sbd": "10000365",
+      "hoTen": "LÊ THỊ TRANG",
+      "lop": "10A11",
+      "diem": {
+        "Toán": 7.5,
+        "Văn": 8.25,
+        "Anh": 6.0,
+        "Sử": 8.5,
+        "Địa": 8.5
+      },
+      "tong": 38.75,
+      "tbHocKy": 7.75,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 93,
+      "sbd": "10000376",
+      "hoTen": "BÙI LÊ HẠ TRÂM",
+      "lop": "10A11",
+      "diem": {
+        "Toán": 6.75,
+        "Văn": 8.0,
+        "Anh": 5.25,
+        "Sử": 8.75,
+        "Địa": 8.3
+      },
+      "tong": 37.0,
+      "tbHocKy": 7.4,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 94,
+      "sbd": "10000397",
+      "hoTen": "LƯU GIA TUỆ",
+      "lop": "10A11",
+      "diem": {
+        "Toán": 6.75,
+        "Văn": 9.0,
+        "Anh": 6.0,
+        "Sử": 6.95,
+        "Địa": 6.3
+      },
+      "tong": 34.95,
+      "tbHocKy": 6.99,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 95,
+      "sbd": "10000399",
+      "hoTen": "NGUYỄN KHÁNH TUYỀN",
+      "lop": "10A11",
+      "diem": {
+        "Toán": 4.75,
+        "Văn": 9.0,
+        "Anh": 6.25,
+        "Sử": 7.0,
+        "Địa": 5.0
+      },
+      "tong": 32.0,
+      "tbHocKy": 6.4,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 96,
+      "sbd": "10000402",
+      "hoTen": "DƯƠNG THỊ THỦY VÂN",
+      "lop": "10A11",
+      "diem": {
+        "Toán": 7.0,
+        "Văn": 8.25,
+        "Anh": 6.75,
+        "Sử": 6.5,
+        "Địa": 5.5
+      },
+      "tong": 34.0,
+      "tbHocKy": 6.8,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 97,
+      "sbd": "10000412",
+      "hoTen": "LÊ VǍN CÔNG VINH",
+      "lop": "10A11",
+      "diem": {
+        "Toán": 7.25,
+        "Văn": 8.0,
+        "Anh": 4.75,
+        "Sử": 6.75,
+        "Địa": 6.8
+      },
+      "tong": 33.5,
+      "tbHocKy": 6.7,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 98,
+      "sbd": "10000003",
+      "hoTen": "TRẦN THÁI HÀ AN",
+      "lop": "10A12",
+      "diem": {
+        "Toán": 5.25,
+        "Văn": 8.5,
+        "Sử": 8.5,
+        "Địa": 8.0,
+        "KTPL": 7.5
+      },
+      "tong": 37.75,
+      "tbHocKy": 7.55,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 99,
+      "sbd": "10000017",
+      "hoTen": "NGUYỄN DOÃN TUẤN ANH",
+      "lop": "10A12",
+      "diem": {
+        "Toán": 2.25,
+        "Văn": 5.5,
+        "Sử": 7.0,
+        "Địa": 7.4,
+        "KTPL": 7.25
+      },
+      "tong": 29.35,
+      "tbHocKy": 5.87,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 100,
+      "sbd": "10000033",
+      "hoTen": "LÊ NGUYỄN GIA BẢO",
+      "lop": "10A12",
+      "diem": {
+        "Toán": 4.0,
+        "Văn": 7.5,
+        "Sử": 6.5,
+        "Địa": 8.5,
+        "KTPL": 4.75
+      },
+      "tong": 31.25,
+      "tbHocKy": 6.25,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 101,
+      "sbd": "10000053",
+      "hoTen": "NGUYỄN THỊ LINH CHI",
+      "lop": "10A12",
+      "diem": {
+        "Toán": 5.35,
+        "Văn": 6.75,
+        "Sử": 7.0,
+        "Địa": 7.5,
+        "KTPL": 4.25
+      },
+      "tong": 30.85,
+      "tbHocKy": 6.17,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 102,
+      "sbd": "10000060",
+      "hoTen": "LÊ QUỐC CƯỜNG",
+      "lop": "10A12",
+      "diem": {
+        "Toán": 6.0,
+        "Văn": 7.5,
+        "Sử": 7.0,
+        "Địa": 9.5,
+        "KTPL": 8.5
+      },
+      "tong": 38.5,
+      "tbHocKy": 7.7,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 103,
+      "sbd": "10000076",
+      "hoTen": "LÊ HẢI DƯƠNG",
+      "lop": "10A12",
+      "diem": {
+        "Toán": 3.25,
+        "Văn": 6.75,
+        "Sử": 4.5,
+        "Địa": 4.5,
+        "KTPL": 4.75
+      },
+      "tong": 23.75,
+      "tbHocKy": 4.75,
+      "xepLoai": "Yếu"
+    },
+    {
+      "stt": 104,
+      "sbd": "10000094",
+      "hoTen": "TRƯƠNG HUY THANH ĐỨC",
+      "lop": "10A12",
+      "diem": {
+        "Toán": 4.85,
+        "Văn": 7.0,
+        "Sử": 5.5,
+        "Địa": 5.5,
+        "KTPL": 5.5
+      },
+      "tong": 28.35,
+      "tbHocKy": 5.67,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 105,
+      "sbd": "10000117",
+      "hoTen": "NGUYỄN XUÂN HIẾU",
+      "lop": "10A12",
+      "diem": {
+        "Toán": 3.85,
+        "Văn": 6.75,
+        "Sử": 5.25,
+        "Địa": 7.1,
+        "KTPL": 5.5
+      },
+      "tong": 28.45,
+      "tbHocKy": 5.69,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 106,
+      "sbd": "10000129",
+      "hoTen": "BÙI ĐỨC HÙNG",
+      "lop": "10A12",
+      "diem": {
+        "Toán": 4.0,
+        "Văn": 6.75,
+        "Sử": 7.75,
+        "Địa": 7.5,
+        "KTPL": 4.85
+      },
+      "tong": 30.85,
+      "tbHocKy": 6.17,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 107,
+      "sbd": "10000145",
+      "hoTen": "TRẦN VǍN HUY",
+      "lop": "10A12",
+      "diem": {
+        "Toán": 5.75,
+        "Văn": 6.75,
+        "Sử": 8.5,
+        "Địa": 9.5,
+        "KTPL": 7.0
+      },
+      "tong": 37.5,
+      "tbHocKy": 7.5,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 108,
+      "sbd": "10000148",
+      "hoTen": "NGUYỄN THỊ KHÁNH HUYỀN",
+      "lop": "10A12",
+      "diem": {
+        "Toán": 4.5,
+        "Văn": 6.0,
+        "Sử": 6.25,
+        "Địa": 6.0,
+        "KTPL": 5.25
+      },
+      "tong": 27.95,
+      "tbHocKy": 5.59,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 109,
+      "sbd": "10000149",
+      "hoTen": "NGUYỄN THỊ NGỌC HUYỀN",
+      "lop": "10A12",
+      "diem": {
+        "Toán": 3.7,
+        "Văn": 6.25,
+        "Sử": 8.25,
+        "Địa": 9.0,
+        "KTPL": 5.25
+      },
+      "tong": 32.45,
+      "tbHocKy": 6.49,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 110,
+      "sbd": "10000183",
+      "hoTen": "NGUYỄN THỊ NGỌC LINH",
+      "lop": "10A12",
+      "diem": {
+        "Toán": 5.5,
+        "Văn": 7.0,
+        "Sử": 8.0,
+        "Địa": 8.0,
+        "KTPL": 6.25
+      },
+      "tong": 34.75,
+      "tbHocKy": 6.95,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 111,
+      "sbd": "10000187",
+      "hoTen": "TRẦN THỊ PHƯƠNG LINH",
+      "lop": "10A12",
+      "diem": {
+        "Toán": 4.1,
+        "Văn": 7.25,
+        "Sử": 5.6,
+        "Địa": 4.3,
+        "KTPL": 4.0
+      },
+      "tong": 25.2,
+      "tbHocKy": 5.04,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 112,
+      "sbd": "10000197",
+      "hoTen": "NGUYỄN PHƯƠNG LY",
+      "lop": "10A12",
+      "diem": {
+        "Toán": 4.0,
+        "Văn": 8.25,
+        "Sử": 5.25,
+        "Địa": 6.8,
+        "KTPL": 4.25
+      },
+      "tong": 28.5,
+      "tbHocKy": 5.7,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 113,
+      "sbd": "10000203",
+      "hoTen": "DƯƠNG HỮU MẠNH",
+      "lop": "10A12",
+      "diem": {
+        "Toán": 2.1,
+        "Văn": 6.5,
+        "Sử": 6.1,
+        "Địa": 4.3,
+        "KTPL": 3.85
+      },
+      "tong": 22.8,
+      "tbHocKy": 4.56,
+      "xepLoai": "Yếu"
+    },
+    {
+      "stt": 114,
+      "sbd": "10000235",
+      "hoTen": "NGUYỄN LÊ KHÁNH NGỌC",
+      "lop": "10A12",
+      "diem": {
+        "Toán": 3.0,
+        "Văn": 8.5,
+        "Sử": 7.75,
+        "Địa": 9.0,
+        "KTPL": 4.75
+      },
+      "tong": 33.0,
+      "tbHocKy": 6.6,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 115,
+      "sbd": "10000257",
+      "hoTen": "NGUYỄN PHAN LONG NHẬT",
+      "lop": "10A12",
+      "diem": {
+        "Toán": 3.5,
+        "Văn": 8.25,
+        "Sử": 5.1,
+        "Địa": 7.3,
+        "KTPL": 5.5
+      },
+      "tong": 29.6,
+      "tbHocKy": 5.92,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 116,
+      "sbd": "10000264",
+      "hoTen": "NGUYỄN THỊ YẾN NHI",
+      "lop": "10A12",
+      "diem": {
+        "Toán": 4.85,
+        "Văn": 8.75,
+        "Sử": 4.6,
+        "Địa": 6.0,
+        "KTPL": 4.7
+      },
+      "tong": 28.9,
+      "tbHocKy": 5.78,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 117,
+      "sbd": "10000265",
+      "hoTen": "NGUYỄN THỊ YẾN NHI",
+      "lop": "10A12",
+      "diem": {
+        "Toán": 4.2,
+        "Văn": 8.5,
+        "Sử": 7.1,
+        "Địa": 7.5,
+        "KTPL": 5.0
+      },
+      "tong": 32.3,
+      "tbHocKy": 6.46,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 118,
+      "sbd": "10000285",
+      "hoTen": "BÙI ĐỨC QUANG",
+      "lop": "10A12",
+      "diem": {
+        "Toán": 6.35,
+        "Văn": 7.5,
+        "Sử": 7.25,
+        "Địa": 8.5,
+        "KTPL": 7.25
+      },
+      "tong": 36.85,
+      "tbHocKy": 7.37,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 119,
+      "sbd": "10000286",
+      "hoTen": "NGUYỄN LƯU QUANG",
+      "lop": "10A12",
+      "diem": {
+        "Toán": 4.1,
+        "Văn": 6.75,
+        "Sử": 7.0,
+        "Địa": 4.3,
+        "KTPL": 4.5
+      },
+      "tong": 26.6,
+      "tbHocKy": 5.32,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 120,
+      "sbd": "10000301",
+      "hoTen": "NGUYỄN THỊ NHƯ QUỲNH",
+      "lop": "10A12",
+      "diem": {},
+      "tong": null,
+      "tbHocKy": null,
+      "xepLoai": null
+    },
+    {
+      "stt": 121,
+      "sbd": "10000330",
+      "hoTen": "TRẦN HUY THẢO",
+      "lop": "10A12",
+      "diem": {
+        "Toán": 4.5,
+        "Văn": 6.25,
+        "Sử": 8.0,
+        "Địa": 7.3,
+        "KTPL": 8.0
+      },
+      "tong": 34.0,
+      "tbHocKy": 6.8,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 122,
+      "sbd": "10000342",
+      "hoTen": "DƯƠNG THỊ THÚY",
+      "lop": "10A12",
+      "diem": {
+        "Toán": 3.1,
+        "Văn": 7.0,
+        "Sử": 7.75,
+        "Địa": 7.8,
+        "KTPL": 5.25
+      },
+      "tong": 30.85,
+      "tbHocKy": 6.17,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 123,
+      "sbd": "10000347",
+      "hoTen": "LÊ PHAN MINH THƯ",
+      "lop": "10A12",
+      "diem": {
+        "Toán": 6.1,
+        "Văn": 5.0,
+        "Sử": 5.25,
+        "Địa": 5.3,
+        "KTPL": 4.85
+      },
+      "tong": 26.45,
+      "tbHocKy": 5.29,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 124,
+      "sbd": "10000348",
+      "hoTen": "PHAN THỊ MINH THƯ",
+      "lop": "10A12",
+      "diem": {
+        "Toán": 1.3,
+        "Văn": 6.75,
+        "Sử": 7.25,
+        "Địa": 6.0,
+        "KTPL": 4.6
+      },
+      "tong": 25.9,
+      "tbHocKy": 5.18,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 125,
+      "sbd": "10000360",
+      "hoTen": "PHẠM VǍN TĨNH",
+      "lop": "10A12",
+      "diem": {
+        "Toán": 4.7,
+        "Văn": 8.25,
+        "Sử": 4.6,
+        "Địa": 5.5,
+        "KTPL": 5.5
+      },
+      "tong": 28.55,
+      "tbHocKy": 5.71,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 126,
+      "sbd": "10000375",
+      "hoTen": "TRẦN THỊ THÙY TRANG",
+      "lop": "10A12",
+      "diem": {
+        "Toán": 4.5,
+        "Văn": 8.5,
+        "Sử": 7.75,
+        "Địa": 8.0,
+        "KTPL": 5.75
+      },
+      "tong": 34.5,
+      "tbHocKy": 6.9,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 127,
+      "sbd": "10000377",
+      "hoTen": "BÙI THỊ TRÂM",
+      "lop": "10A12",
+      "diem": {
+        "Toán": 3.45,
+        "Văn": 8.25,
+        "Sử": 5.6,
+        "Địa": 7.5,
+        "KTPL": 6.75
+      },
+      "tong": 31.55,
+      "tbHocKy": 6.31,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 128,
+      "sbd": "10000388",
+      "hoTen": "LÊ CẨM TÚ",
+      "lop": "10A12",
+      "diem": {
+        "Toán": 3.0,
+        "Văn": 6.0,
+        "Sử": 5.1,
+        "Địa": 5.5,
+        "KTPL": 3.75
+      },
+      "tong": 23.35,
+      "tbHocKy": 4.67,
+      "xepLoai": "Yếu"
+    },
+    {
+      "stt": 129,
+      "sbd": "10000409",
+      "hoTen": "HOÀNG TRỌNG VIỆT",
+      "lop": "10A12",
+      "diem": {
+        "Toán": 1.7,
+        "Văn": 6.5,
+        "Sử": 6.6,
+        "Địa": 6.5,
+        "KTPL": 5.5
+      },
+      "tong": 26.8,
+      "tbHocKy": 5.36,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 130,
+      "sbd": "10000416",
+      "hoTen": "LÊ ANH VŨ",
+      "lop": "10A12",
+      "diem": {
+        "Toán": 3.7,
+        "Văn": 7.5,
+        "Sử": 5.35,
+        "Địa": 5.5,
+        "KTPL": 5.85
+      },
+      "tong": 27.9,
+      "tbHocKy": 5.58,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 131,
+      "sbd": "10000013",
+      "hoTen": "HOÀNG TRỌNG QUỐC ANH",
+      "lop": "10A2",
+      "diem": {
+        "Toán": 5.85,
+        "Văn": 6.5,
+        "Lý": 3.25,
+        "Hóa": 7.0,
+        "Sinh": 4.85
+      },
+      "tong": 27.45,
+      "tbHocKy": 5.49,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 132,
+      "sbd": "10000016",
+      "hoTen": "LÊ NGUYỄN VIỆT ANH",
+      "lop": "10A2",
+      "diem": {
+        "Toán": 7.0,
+        "Văn": 6.0,
+        "Lý": 4.85,
+        "Hóa": 6.25,
+        "Sinh": 4.75
+      },
+      "tong": 28.85,
+      "tbHocKy": 5.77,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 133,
+      "sbd": "10000032",
+      "hoTen": "DƯƠNG VǍN GIA BẢO",
+      "lop": "10A2",
+      "diem": {
+        "Toán": 7.5,
+        "Văn": 7.25,
+        "Lý": 7.5,
+        "Hóa": 7.75,
+        "Sinh": 4.6
+      },
+      "tong": 34.6,
+      "tbHocKy": 6.92,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 134,
+      "sbd": "10000037",
+      "hoTen": "NGUYỄN ĐÌNH GIA BẢO",
+      "lop": "10A2",
+      "diem": {
+        "Toán": 6.5,
+        "Văn": 3.0,
+        "Lý": 3.1,
+        "Hóa": 3.5,
+        "Sinh": 5.0
+      },
+      "tong": 21.1,
+      "tbHocKy": 4.22,
+      "xepLoai": "Yếu"
+    },
+    {
+      "stt": 135,
+      "sbd": "10000063",
+      "hoTen": "NGUYỄN HỮU DANH",
+      "lop": "10A2",
+      "diem": {
+        "Toán": 6.85,
+        "Văn": 7.0,
+        "Lý": 7.0,
+        "Hóa": 6.5,
+        "Sinh": 6.25
+      },
+      "tong": 33.6,
+      "tbHocKy": 6.72,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 136,
+      "sbd": "10000072",
+      "hoTen": "HOÀNG TRẦN HỮU DUY",
+      "lop": "10A2",
+      "diem": {
+        "Toán": 5.5,
+        "Văn": 3.0,
+        "Lý": 0.95,
+        "Hóa": 3.1,
+        "Sinh": 5.25
+      },
+      "tong": 17.8,
+      "tbHocKy": 3.56,
+      "xepLoai": "Yếu"
+    },
+    {
+      "stt": 137,
+      "sbd": "10000078",
+      "hoTen": "NGUYỄN THÙY DƯƠNG",
+      "lop": "10A2",
+      "diem": {
+        "Toán": 5.6,
+        "Văn": 8.0,
+        "Lý": 6.35,
+        "Hóa": 4.35,
+        "Sinh": 4.35
+      },
+      "tong": 28.65,
+      "tbHocKy": 5.73,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 138,
+      "sbd": "10000083",
+      "hoTen": "TRẦN ĐÌNH ĐÀN",
+      "lop": "10A2",
+      "diem": {
+        "Toán": 5.75,
+        "Văn": 6.5,
+        "Lý": 4.5,
+        "Hóa": 5.75,
+        "Sinh": 4.6
+      },
+      "tong": 27.1,
+      "tbHocKy": 5.42,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 139,
+      "sbd": "10000088",
+      "hoTen": "LÊ NGUYỄN HẢI ĐĂNG",
+      "lop": "10A2",
+      "diem": {
+        "Toán": 7.75,
+        "Văn": 7.25,
+        "Lý": 4.25,
+        "Hóa": 5.5,
+        "Sinh": 6.0
+      },
+      "tong": 30.75,
+      "tbHocKy": 6.15,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 140,
+      "sbd": "10000092",
+      "hoTen": "NGUYỄN TRỌNG ĐỨC",
+      "lop": "10A2",
+      "diem": {
+        "Toán": 7.75,
+        "Văn": 8.0,
+        "Lý": 7.75,
+        "Hóa": 6.0,
+        "Sinh": 7.25
+      },
+      "tong": 36.75,
+      "tbHocKy": 7.35,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 141,
+      "sbd": "10000112",
+      "hoTen": "NGUYỄN ÐÌNH HẢI HẬU",
+      "lop": "10A2",
+      "diem": {
+        "Toán": 9.0,
+        "Văn": 8.0,
+        "Lý": 7.25,
+        "Hóa": 8.75,
+        "Sinh": 6.75
+      },
+      "tong": 39.75,
+      "tbHocKy": 7.95,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 142,
+      "sbd": "10000125",
+      "hoTen": "NGUYỄN VIỆT HOÀNG",
+      "lop": "10A2",
+      "diem": {
+        "Toán": 8.25,
+        "Văn": 7.75,
+        "Lý": 6.25,
+        "Hóa": 4.2,
+        "Sinh": 7.0
+      },
+      "tong": 33.45,
+      "tbHocKy": 6.69,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 143,
+      "sbd": "10000131",
+      "hoTen": "NGUYỄN HỮU LÝ HÙNG",
+      "lop": "10A2",
+      "diem": {
+        "Toán": 7.5,
+        "Văn": 6.75,
+        "Lý": 8.25,
+        "Hóa": 7.25,
+        "Sinh": 6.5
+      },
+      "tong": 36.25,
+      "tbHocKy": 7.25,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 144,
+      "sbd": "10000162",
+      "hoTen": "DƯƠNG TUẤN KHANG",
+      "lop": "10A2",
+      "diem": {
+        "Toán": 9.25,
+        "Văn": 6.25,
+        "Lý": 7.75,
+        "Hóa": 9.0,
+        "Sinh": 6.6
+      },
+      "tong": 38.85,
+      "tbHocKy": 7.77,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 145,
+      "sbd": "10000170",
+      "hoTen": "NGUYỄN VIẾT LẢM",
+      "lop": "10A2",
+      "diem": {
+        "Toán": 5.0,
+        "Văn": 6.75,
+        "Lý": 4.85,
+        "Hóa": 7.25,
+        "Sinh": 5.25
+      },
+      "tong": 29.1,
+      "tbHocKy": 5.82,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 146,
+      "sbd": "10000172",
+      "hoTen": "NGUYỄN HOÀNG LÂM",
+      "lop": "10A2",
+      "diem": {
+        "Toán": 8.75,
+        "Văn": 7.75,
+        "Lý": 8.5,
+        "Hóa": 8.8,
+        "Sinh": 7.25
+      },
+      "tong": 41.05,
+      "tbHocKy": 8.21,
+      "xepLoai": "Giỏi"
+    },
+    {
+      "stt": 147,
+      "sbd": "10000195",
+      "hoTen": "VÕ HỮU DUY LONG",
+      "lop": "10A2",
+      "diem": {
+        "Toán": 8.25,
+        "Văn": 7.5,
+        "Lý": 9.5,
+        "Hóa": 8.25,
+        "Sinh": 8.0
+      },
+      "tong": 41.5,
+      "tbHocKy": 8.3,
+      "xepLoai": "Giỏi"
+    },
+    {
+      "stt": 148,
+      "sbd": "10000208",
+      "hoTen": "TRẦN HUY MẠNH",
+      "lop": "10A2",
+      "diem": {
+        "Toán": 5.5,
+        "Văn": 6.25,
+        "Lý": 3.35,
+        "Hóa": 7.0,
+        "Sinh": 3.75
+      },
+      "tong": 25.85,
+      "tbHocKy": 5.17,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 149,
+      "sbd": "10000210",
+      "hoTen": "NGUYỄN ĐỖ TIẾN MINH",
+      "lop": "10A2",
+      "diem": {
+        "Toán": 4.95,
+        "Văn": 4.5,
+        "Lý": 2.6,
+        "Hóa": 5.6,
+        "Sinh": 4.5
+      },
+      "tong": 22.15,
+      "tbHocKy": 4.43,
+      "xepLoai": "Yếu"
+    },
+    {
+      "stt": 150,
+      "sbd": "10000239",
+      "hoTen": "TRƯƠNG LÊ BẢO NGỌC",
+      "lop": "10A2",
+      "diem": {
+        "Toán": 8.75,
+        "Văn": 7.75,
+        "Lý": 8.25,
+        "Hóa": 8.0,
+        "Sinh": 8.5
+      },
+      "tong": 41.25,
+      "tbHocKy": 8.25,
+      "xepLoai": "Giỏi"
+    },
+    {
+      "stt": 151,
+      "sbd": "10000241",
+      "hoTen": "BIỆN VǍN AN NGUYÊN",
+      "lop": "10A2",
+      "diem": {
+        "Toán": 8.75,
+        "Văn": 6.25,
+        "Lý": 7.25,
+        "Hóa": 8.25,
+        "Sinh": 7.25
+      },
+      "tong": 37.75,
+      "tbHocKy": 7.55,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 152,
+      "sbd": "10000254",
+      "hoTen": "ĐÀO ANH NHẬT",
+      "lop": "10A2",
+      "diem": {
+        "Toán": 5.6,
+        "Văn": 7.75,
+        "Lý": 6.6,
+        "Hóa": 7.25,
+        "Sinh": 5.5
+      },
+      "tong": 32.7,
+      "tbHocKy": 6.54,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 153,
+      "sbd": "10000266",
+      "hoTen": "NGUYỄN TRẦN UYỂN NHI",
+      "lop": "10A2",
+      "diem": {
+        "Toán": 8.75,
+        "Văn": 7.5,
+        "Lý": 7.25,
+        "Hóa": 5.75,
+        "Sinh": 8.25
+      },
+      "tong": 37.5,
+      "tbHocKy": 7.5,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 154,
+      "sbd": "10000271",
+      "hoTen": "NGUYỄN THỊ TÂM NHƯ",
+      "lop": "10A2",
+      "diem": {
+        "Toán": 6.0,
+        "Văn": 7.75,
+        "Lý": 5.35,
+        "Hóa": 7.0,
+        "Sinh": 6.0
+      },
+      "tong": 32.1,
+      "tbHocKy": 6.42,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 155,
+      "sbd": "10000280",
+      "hoTen": "ÐỖ XUÂN PHÚ",
+      "lop": "10A2",
+      "diem": {
+        "Toán": 2.85,
+        "Văn": 6.75,
+        "Lý": 4.35,
+        "Hóa": 6.0,
+        "Sinh": 4.1
+      },
+      "tong": 24.05,
+      "tbHocKy": 4.81,
+      "xepLoai": "Yếu"
+    },
+    {
+      "stt": 156,
+      "sbd": "10000306",
+      "hoTen": "ĐẬU VǍN SANG",
+      "lop": "10A2",
+      "diem": {
+        "Toán": 8.0,
+        "Văn": 8.25,
+        "Lý": 7.5,
+        "Hóa": 8.5,
+        "Sinh": 7.75
+      },
+      "tong": 40.0,
+      "tbHocKy": 8.0,
+      "xepLoai": "Giỏi"
+    },
+    {
+      "stt": 157,
+      "sbd": "10000374",
+      "hoTen": "PHẠM THÙY HUYỀN TRANG",
+      "lop": "10A2",
+      "diem": {
+        "Toán": 8.0,
+        "Văn": 8.25,
+        "Lý": 7.25,
+        "Hóa": 7.5,
+        "Sinh": 6.75
+      },
+      "tong": 37.75,
+      "tbHocKy": 7.55,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 158,
+      "sbd": "10000378",
+      "hoTen": "LÊ NGỌC BẢO TRÂM",
+      "lop": "10A2",
+      "diem": {
+        "Toán": 8.25,
+        "Văn": 8.75,
+        "Lý": 5.7,
+        "Hóa": 9.0,
+        "Sinh": 5.25
+      },
+      "tong": 36.95,
+      "tbHocKy": 7.39,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 159,
+      "sbd": "10000384",
+      "hoTen": "NGUYỄN THỊ THANH TRÚC",
+      "lop": "10A2",
+      "diem": {
+        "Toán": 6.5,
+        "Văn": 9.0,
+        "Lý": 7.5,
+        "Hóa": 8.0,
+        "Sinh": 8.5
+      },
+      "tong": 39.5,
+      "tbHocKy": 7.9,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 160,
+      "sbd": "10000385",
+      "hoTen": "NGUYỄN THỊ THANH TRÚC",
+      "lop": "10A2",
+      "diem": {
+        "Toán": 8.5,
+        "Văn": 8.5,
+        "Lý": 8.75,
+        "Hóa": 8.5,
+        "Sinh": 9.0
+      },
+      "tong": 43.25,
+      "tbHocKy": 8.65,
+      "xepLoai": "Giỏi"
+    },
+    {
+      "stt": 161,
+      "sbd": "10000387",
+      "hoTen": "DƯƠNG CÔNG TRƯỜNG",
+      "lop": "10A2",
+      "diem": {
+        "Toán": 9.0,
+        "Văn": 7.25,
+        "Lý": 7.5,
+        "Hóa": 9.5,
+        "Sinh": 6.25
+      },
+      "tong": 39.5,
+      "tbHocKy": 7.9,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 162,
+      "sbd": "10000389",
+      "hoTen": "NGUYỄN HỮU TÚ",
+      "lop": "10A2",
+      "diem": {
+        "Toán": 5.5,
+        "Văn": 7.0,
+        "Lý": 4.1,
+        "Hóa": 6.85,
+        "Sinh": 5.0
+      },
+      "tong": 28.45,
+      "tbHocKy": 5.69,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 163,
+      "sbd": "10000393",
+      "hoTen": "LÊ TRÍ TUẤN",
+      "lop": "10A2",
+      "diem": {
+        "Toán": 5.1,
+        "Văn": 8.0,
+        "Lý": 5.75,
+        "Hóa": 5.5,
+        "Sinh": 3.5
+      },
+      "tong": 27.85,
+      "tbHocKy": 5.57,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 164,
+      "sbd": "10000405",
+      "hoTen": "BÙI THỊ HÀ VI",
+      "lop": "10A2",
+      "diem": {
+        "Toán": 8.6,
+        "Văn": 8.75,
+        "Lý": 9.5,
+        "Hóa": 8.75,
+        "Sinh": 6.75
+      },
+      "tong": 42.35,
+      "tbHocKy": 8.47,
+      "xepLoai": "Giỏi"
+    },
+    {
+      "stt": 165,
+      "sbd": "10000001",
+      "hoTen": "LÊ PHAN TRƯỜNG AN",
+      "lop": "10A3",
+      "diem": {
+        "Toán": 6.75,
+        "Văn": 4.75,
+        "Lý": 6.6,
+        "Hóa": 8.25,
+        "Sinh": 5.85
+      },
+      "tong": 32.2,
+      "tbHocKy": 6.44,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 166,
+      "sbd": "10000006",
+      "hoTen": "LÊ HỮU HOÀNG ANH",
+      "lop": "10A3",
+      "diem": {
+        "Toán": 6.25,
+        "Văn": 5.75,
+        "Lý": 5.0,
+        "Hóa": 5.6,
+        "Sinh": 4.25
+      },
+      "tong": 26.85,
+      "tbHocKy": 5.37,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 167,
+      "sbd": "10000007",
+      "hoTen": "NGUYỄN CAO THÁI ANH",
+      "lop": "10A3",
+      "diem": {},
+      "tong": null,
+      "tbHocKy": null,
+      "xepLoai": null
+    },
+    {
+      "stt": 168,
+      "sbd": "10000008",
+      "hoTen": "NGUYỄN XUÂN TUẤN ANH",
+      "lop": "10A3",
+      "diem": {
+        "Toán": 4.35,
+        "Văn": 6.5,
+        "Lý": 3.0,
+        "Hóa": 3.75,
+        "Sinh": 4.25
+      },
+      "tong": 21.85,
+      "tbHocKy": 4.37,
+      "xepLoai": "Yếu"
+    },
+    {
+      "stt": 169,
+      "sbd": "10000009",
+      "hoTen": "TRẦN THỊ QUỲNH ANH",
+      "lop": "10A3",
+      "diem": {
+        "Toán": 5.85,
+        "Văn": 6.25,
+        "Lý": 5.0,
+        "Hóa": 4.35,
+        "Sinh": 4.1
+      },
+      "tong": 25.55,
+      "tbHocKy": 5.11,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 170,
+      "sbd": "10000043",
+      "hoTen": "NGUYỄN LƯƠNG BẰNG",
+      "lop": "10A3",
+      "diem": {
+        "Toán": 6.0,
+        "Văn": 7.0,
+        "Lý": 7.35,
+        "Hóa": 8.75,
+        "Sinh": 4.85
+      },
+      "tong": 33.95,
+      "tbHocKy": 6.79,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 171,
+      "sbd": "10000049",
+      "hoTen": "NGUYỄN HOÀNG BẢO CHẤU",
+      "lop": "10A3",
+      "diem": {
+        "Toán": 5.25,
+        "Văn": 6.75,
+        "Lý": 3.5,
+        "Hóa": 5.5,
+        "Sinh": 3.25
+      },
+      "tong": 24.25,
+      "tbHocKy": 4.85,
+      "xepLoai": "Yếu"
+    },
+    {
+      "stt": 172,
+      "sbd": "10000059",
+      "hoTen": "NGUYỄN VĂN MẠNH CƯỜNG",
+      "lop": "10A3",
+      "diem": {
+        "Toán": 6.5,
+        "Văn": 4.5,
+        "Lý": 6.5,
+        "Hóa": 8.0,
+        "Sinh": 5.75
+      },
+      "tong": 31.25,
+      "tbHocKy": 6.25,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 173,
+      "sbd": "10000070",
+      "hoTen": "NGUYỄN VĂN DŨNG",
+      "lop": "10A3",
+      "diem": {
+        "Toán": 5.75,
+        "Văn": 6.75,
+        "Lý": 4.5,
+        "Hóa": 8.0,
+        "Sinh": 5.75
+      },
+      "tong": 30.75,
+      "tbHocKy": 6.15,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 174,
+      "sbd": "10000080",
+      "hoTen": "DƯƠNG CHÍ ĐẠI",
+      "lop": "10A3",
+      "diem": {
+        "Toán": 5.25,
+        "Văn": 6.5,
+        "Lý": 5.25,
+        "Hóa": 7.5,
+        "Sinh": 3.85
+      },
+      "tong": 28.35,
+      "tbHocKy": 5.67,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 175,
+      "sbd": "10000085",
+      "hoTen": "ĐẶNG BÁ HẢI ĐĂNG",
+      "lop": "10A3",
+      "diem": {
+        "Toán": 6.5,
+        "Văn": 7.25,
+        "Lý": 6.6,
+        "Hóa": 8.75,
+        "Sinh": 5.5
+      },
+      "tong": 34.6,
+      "tbHocKy": 6.92,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 176,
+      "sbd": "10000090",
+      "hoTen": "PHẠM TRỌNG HUỲNH ĐỨC",
+      "lop": "10A3",
+      "diem": {
+        "Toán": 6.6,
+        "Văn": 7.0,
+        "Lý": 5.35,
+        "Hóa": 6.5,
+        "Sinh": 5.35
+      },
+      "tong": 30.8,
+      "tbHocKy": 6.16,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 177,
+      "sbd": "10000098",
+      "hoTen": "NGUYỄN HOÀNG GIA",
+      "lop": "10A3",
+      "diem": {
+        "Toán": 6.5,
+        "Văn": 7.0,
+        "Lý": 5.0,
+        "Hóa": 5.75,
+        "Sinh": 4.85
+      },
+      "tong": 29.1,
+      "tbHocKy": 5.82,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 178,
+      "sbd": "10000102",
+      "hoTen": "VÕ THỊ VIỆT HÀ",
+      "lop": "10A3",
+      "diem": {
+        "Toán": 6.75,
+        "Văn": 8.5,
+        "Lý": 5.25,
+        "Hóa": 8.5,
+        "Sinh": 6.0
+      },
+      "tong": 35.0,
+      "tbHocKy": 7.0,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 179,
+      "sbd": "10000121",
+      "hoTen": "TRẦN DUY HOÀNG",
+      "lop": "10A3",
+      "diem": {
+        "Toán": 5.1,
+        "Văn": 7.75,
+        "Lý": 6.25,
+        "Hóa": 5.75,
+        "Sinh": 6.0
+      },
+      "tong": 30.85,
+      "tbHocKy": 6.17,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 180,
+      "sbd": "10000133",
+      "hoTen": "LƯU NGUYỄN QUANG HUY",
+      "lop": "10A3",
+      "diem": {
+        "Toán": 6.5,
+        "Văn": 6.25,
+        "Lý": 3.35,
+        "Hóa": 5.75,
+        "Sinh": 4.6
+      },
+      "tong": 26.45,
+      "tbHocKy": 5.29,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 181,
+      "sbd": "10000160",
+      "hoTen": "HOÀNG VĂN KHẢI",
+      "lop": "10A3",
+      "diem": {
+        "Toán": 7.75,
+        "Văn": 6.5,
+        "Lý": 7.25,
+        "Hóa": 8.0,
+        "Sinh": 7.5
+      },
+      "tong": 37.0,
+      "tbHocKy": 7.4,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 182,
+      "sbd": "10000161",
+      "hoTen": "NGUYỄN HÀ TIẾN KHANG",
+      "lop": "10A3",
+      "diem": {
+        "Toán": 7.0,
+        "Văn": 6.5,
+        "Lý": 8.25,
+        "Hóa": 9.0,
+        "Sinh": 8.5
+      },
+      "tong": 39.25,
+      "tbHocKy": 7.85,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 183,
+      "sbd": "10000177",
+      "hoTen": "NGUYỄN THỊ THÙY LINH",
+      "lop": "10A3",
+      "diem": {
+        "Toán": 9.5,
+        "Văn": 7.25,
+        "Lý": 7.25,
+        "Hóa": 8.75,
+        "Sinh": 6.1
+      },
+      "tong": 38.85,
+      "tbHocKy": 7.77,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 184,
+      "sbd": "10000204",
+      "hoTen": "LÊ VǍN MẠNH",
+      "lop": "10A3",
+      "diem": {
+        "Toán": 3.1,
+        "Văn": 6.5,
+        "Lý": 6.0,
+        "Hóa": 4.85,
+        "Sinh": 4.25
+      },
+      "tong": 24.7,
+      "tbHocKy": 4.94,
+      "xepLoai": "Yếu"
+    },
+    {
+      "stt": 185,
+      "sbd": "10000222",
+      "hoTen": "NGUYỄN VIẾT BẢO NAM",
+      "lop": "10A3",
+      "diem": {
+        "Toán": 8.1,
+        "Văn": 7.5,
+        "Lý": 8.75,
+        "Hóa": 8.5,
+        "Sinh": 6.25
+      },
+      "tong": 39.1,
+      "tbHocKy": 7.82,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 186,
+      "sbd": "10000224",
+      "hoTen": "PHẠM THANH NGA",
+      "lop": "10A3",
+      "diem": {
+        "Toán": 7.75,
+        "Văn": 7.75,
+        "Lý": 5.35,
+        "Hóa": 7.75,
+        "Sinh": 6.75
+      },
+      "tong": 35.35,
+      "tbHocKy": 7.07,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 187,
+      "sbd": "10000230",
+      "hoTen": "HỒ THỊ BẢO NGỌC",
+      "lop": "10A3",
+      "diem": {
+        "Toán": 6.35,
+        "Văn": 8.25,
+        "Lý": 7.0,
+        "Hóa": 6.25,
+        "Sinh": 6.75
+      },
+      "tong": 34.6,
+      "tbHocKy": 6.92,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 188,
+      "sbd": "10000240",
+      "hoTen": "HỒ KHÁNH NGUYÊN",
+      "lop": "10A3",
+      "diem": {
+        "Toán": 9.0,
+        "Văn": 8.25,
+        "Lý": 8.0,
+        "Hóa": 9.25,
+        "Sinh": 8.0
+      },
+      "tong": 42.5,
+      "tbHocKy": 8.5,
+      "xepLoai": "Giỏi"
+    },
+    {
+      "stt": 189,
+      "sbd": "10000249",
+      "hoTen": "TRẦN THỊ THANH NHÀN",
+      "lop": "10A3",
+      "diem": {
+        "Toán": 9.0,
+        "Văn": 7.75,
+        "Lý": 7.75,
+        "Hóa": 8.75,
+        "Sinh": 7.75
+      },
+      "tong": 41.0,
+      "tbHocKy": 8.2,
+      "xepLoai": "Giỏi"
+    },
+    {
+      "stt": 190,
+      "sbd": "10000275",
+      "hoTen": "LÊ DUY PHÁT",
+      "lop": "10A3",
+      "diem": {
+        "Toán": 7.0,
+        "Văn": 8.25,
+        "Lý": 6.5,
+        "Hóa": 5.75,
+        "Sinh": 4.7
+      },
+      "tong": 32.2,
+      "tbHocKy": 6.44,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 191,
+      "sbd": "10000278",
+      "hoTen": "NGUYỄN NHẬT PHI",
+      "lop": "10A3",
+      "diem": {
+        "Toán": 8.25,
+        "Văn": 5.0,
+        "Lý": 2.2,
+        "Hóa": 6.1,
+        "Sinh": 4.0
+      },
+      "tong": 25.55,
+      "tbHocKy": 5.11,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 192,
+      "sbd": "10000288",
+      "hoTen": "LÊ ANH QUÂN",
+      "lop": "10A3",
+      "diem": {
+        "Toán": 4.0,
+        "Văn": 7.0,
+        "Lý": 3.5,
+        "Hóa": 6.35,
+        "Sinh": 4.85
+      },
+      "tong": 25.7,
+      "tbHocKy": 5.14,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 193,
+      "sbd": "10000310",
+      "hoTen": "NGUYỄN ĐỨC TÀI",
+      "lop": "10A3",
+      "diem": {
+        "Toán": 4.6,
+        "Văn": 3.25,
+        "Lý": 3.75,
+        "Hóa": 7.25,
+        "Sinh": 3.6
+      },
+      "tong": 22.45,
+      "tbHocKy": 4.49,
+      "xepLoai": "Yếu"
+    },
+    {
+      "stt": 194,
+      "sbd": "10000323",
+      "hoTen": "LÊ DUY THÀNH",
+      "lop": "10A3",
+      "diem": {
+        "Toán": 7.1,
+        "Văn": 6.75,
+        "Lý": 5.5,
+        "Hóa": 7.75,
+        "Sinh": 6.6
+      },
+      "tong": 33.7,
+      "tbHocKy": 6.74,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 195,
+      "sbd": "10000324",
+      "hoTen": "LÊ NGỌC THÀNH",
+      "lop": "10A3",
+      "diem": {
+        "Toán": 6.85,
+        "Văn": 7.75,
+        "Lý": 4.0,
+        "Hóa": 7.25,
+        "Sinh": 4.1
+      },
+      "tong": 29.95,
+      "tbHocKy": 5.99,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 196,
+      "sbd": "10000345",
+      "hoTen": "PHAN THỊ MINH THƯ",
+      "lop": "10A3",
+      "diem": {
+        "Toán": 4.5,
+        "Văn": 8.0,
+        "Lý": 7.25,
+        "Hóa": 7.25,
+        "Sinh": 5.5
+      },
+      "tong": 32.5,
+      "tbHocKy": 6.5,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 197,
+      "sbd": "10000386",
+      "hoTen": "NGUYỄN ÐÌNH TRƯỜNG",
+      "lop": "10A3",
+      "diem": {
+        "Toán": 5.5,
+        "Văn": 5.5,
+        "Lý": 7.25,
+        "Hóa": 5.0,
+        "Sinh": 6.5
+      },
+      "tong": 29.75,
+      "tbHocKy": 5.95,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 198,
+      "sbd": "10000398",
+      "hoTen": "LÊ MẠNH TÙNG",
+      "lop": "10A3",
+      "diem": {
+        "Toán": 4.5,
+        "Văn": 7.75,
+        "Lý": 6.25,
+        "Hóa": 7.75,
+        "Sinh": 5.0
+      },
+      "tong": 31.25,
+      "tbHocKy": 6.25,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 199,
+      "sbd": "10000400",
+      "hoTen": "ĐẶNG THẾ BÁCH UY",
+      "lop": "10A3",
+      "diem": {
+        "Toán": 7.75,
+        "Văn": 6.0,
+        "Lý": 6.5,
+        "Hóa": 7.25,
+        "Sinh": 4.75
+      },
+      "tong": 32.25,
+      "tbHocKy": 6.45,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 200,
+      "sbd": "10000403",
+      "hoTen": "CHU TRẦN THẢO VI",
+      "lop": "10A3",
+      "diem": {
+        "Toán": 7.85,
+        "Văn": 8.0,
+        "Lý": 8.25,
+        "Hóa": 9.75,
+        "Sinh": 5.5
+      },
+      "tong": 39.35,
+      "tbHocKy": 7.87,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 201,
+      "sbd": "10000422",
+      "hoTen": "TRẦN HỒNG GIA VỸ",
+      "lop": "10A3",
+      "diem": {
+        "Toán": 4.6,
+        "Văn": 7.0,
+        "Lý": 3.5,
+        "Hóa": 6.25,
+        "Sinh": 4.25
+      },
+      "tong": 25.6,
+      "tbHocKy": 5.12,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 202,
+      "sbd": "10000015",
+      "hoTen": "HỒ VǍN QUỐC ANH",
+      "lop": "10A4",
+      "diem": {
+        "Toán": 5.5,
+        "Văn": 6.5,
+        "Lý": 7.75,
+        "Hóa": 7.75,
+        "Sinh": 6.5
+      },
+      "tong": 34.0,
+      "tbHocKy": 6.8,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 203,
+      "sbd": "10000018",
+      "hoTen": "NGUYỄN HỮU ANH",
+      "lop": "10A4",
+      "diem": {
+        "Toán": 9.0,
+        "Văn": 7.5,
+        "Lý": 5.25,
+        "Hóa": 9.0,
+        "Sinh": 4.85
+      },
+      "tong": 35.6,
+      "tbHocKy": 7.12,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 204,
+      "sbd": "10000035",
+      "hoTen": "NGUYỄN ĐẶNG HỮU BẢO",
+      "lop": "10A4",
+      "diem": {
+        "Toán": 7.5,
+        "Văn": 5.25,
+        "Lý": 7.75,
+        "Hóa": 9.25,
+        "Sinh": 7.75
+      },
+      "tong": 37.5,
+      "tbHocKy": 7.5,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 205,
+      "sbd": "10000039",
+      "hoTen": "NGUYỄN HỮU BẢO",
+      "lop": "10A4",
+      "diem": {
+        "Toán": 7.0,
+        "Văn": 5.75,
+        "Lý": 3.35,
+        "Hóa": 7.35,
+        "Sinh": 5.95
+      },
+      "tong": 29.4,
+      "tbHocKy": 5.88,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 206,
+      "sbd": "10000044",
+      "hoTen": "LÊ THỊ THANH BÌNH",
+      "lop": "10A4",
+      "diem": {
+        "Toán": 7.25,
+        "Văn": 8.25,
+        "Lý": 5.25,
+        "Hóa": 7.5,
+        "Sinh": 4.75
+      },
+      "tong": 33.0,
+      "tbHocKy": 6.6,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 207,
+      "sbd": "10000050",
+      "hoTen": "NGUYỄN THỊ NGỌC CHÂU",
+      "lop": "10A4",
+      "diem": {
+        "Toán": 7.5,
+        "Văn": 7.0,
+        "Lý": 3.7,
+        "Hóa": 5.85,
+        "Sinh": 5.25
+      },
+      "tong": 29.3,
+      "tbHocKy": 5.86,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 208,
+      "sbd": "10000077",
+      "hoTen": "NGUYỄN KHÁNH DƯƠNG",
+      "lop": "10A4",
+      "diem": {
+        "Toán": 6.75,
+        "Văn": 7.0,
+        "Lý": 5.0,
+        "Hóa": 6.5,
+        "Sinh": 5.75
+      },
+      "tong": 31.0,
+      "tbHocKy": 6.2,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 209,
+      "sbd": "10000084",
+      "hoTen": "TRẦN DUY TIẾN ĐẠT",
+      "lop": "10A4",
+      "diem": {
+        "Toán": 4.1,
+        "Văn": 7.5,
+        "Lý": 1.45,
+        "Hóa": 5.5,
+        "Sinh": 4.0
+      },
+      "tong": 22.55,
+      "tbHocKy": 4.51,
+      "xepLoai": "Yếu"
+    },
+    {
+      "stt": 210,
+      "sbd": "10000087",
+      "hoTen": "NGUYỄN VǍN TIẾN ĐẠT",
+      "lop": "10A4",
+      "diem": {
+        "Toán": 6.75,
+        "Văn": 7.0,
+        "Lý": 2.45,
+        "Hóa": 6.5,
+        "Sinh": 4.5
+      },
+      "tong": 27.2,
+      "tbHocKy": 5.44,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 211,
+      "sbd": "10000093",
+      "hoTen": "TRẦN NHƯ HOÀNG ĐỨC",
+      "lop": "10A4",
+      "diem": {
+        "Toán": 6.75,
+        "Văn": 7.75,
+        "Lý": 4.0,
+        "Hóa": 7.0,
+        "Sinh": 6.75
+      },
+      "tong": 32.25,
+      "tbHocKy": 6.45,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 212,
+      "sbd": "10000115",
+      "hoTen": "NGUYỄN VǍN VŨ HIỆP",
+      "lop": "10A4",
+      "diem": {
+        "Toán": 3.75,
+        "Văn": 6.75,
+        "Lý": 2.35,
+        "Hóa": 4.85,
+        "Sinh": 3.1
+      },
+      "tong": 20.8,
+      "tbHocKy": 4.16,
+      "xepLoai": "Yếu"
+    },
+    {
+      "stt": 213,
+      "sbd": "10000140",
+      "hoTen": "NGÔ GIA HUY",
+      "lop": "10A4",
+      "diem": {
+        "Toán": 6.1,
+        "Văn": 6.75,
+        "Lý": 4.25,
+        "Hóa": 5.85,
+        "Sinh": 5.25
+      },
+      "tong": 28.2,
+      "tbHocKy": 5.64,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 214,
+      "sbd": "10000144",
+      "hoTen": "PHAN HỮU HUY",
+      "lop": "10A4",
+      "diem": {
+        "Toán": 5.2,
+        "Văn": 6.25,
+        "Lý": 3.85,
+        "Hóa": 7.0,
+        "Sinh": 4.75
+      },
+      "tong": 27.05,
+      "tbHocKy": 5.41,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 215,
+      "sbd": "10000154",
+      "hoTen": "LÊ XUÂN QUANG HƯNG",
+      "lop": "10A4",
+      "diem": {
+        "Toán": 6.0,
+        "Văn": 6.5,
+        "Lý": 5.25,
+        "Hóa": 4.85,
+        "Sinh": 7.25
+      },
+      "tong": 29.85,
+      "tbHocKy": 5.97,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 216,
+      "sbd": "10000159",
+      "hoTen": "NGUYỄN THỊ MỸ HƯỜNG",
+      "lop": "10A4",
+      "diem": {
+        "Toán": 7.0,
+        "Văn": 8.0,
+        "Lý": 4.35,
+        "Hóa": 9.5,
+        "Sinh": 9.25
+      },
+      "tong": 38.1,
+      "tbHocKy": 7.62,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 217,
+      "sbd": "10000168",
+      "hoTen": "BÙI ANH KHÔI",
+      "lop": "10A4",
+      "diem": {
+        "Toán": 7.25,
+        "Văn": 7.25,
+        "Lý": 9.0,
+        "Hóa": 6.75,
+        "Sinh": 7.5
+      },
+      "tong": 37.75,
+      "tbHocKy": 7.55,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 218,
+      "sbd": "10000180",
+      "hoTen": "LÊ THÙY LINH",
+      "lop": "10A4",
+      "diem": {
+        "Toán": 6.6,
+        "Văn": 7.5,
+        "Lý": 2.2,
+        "Hóa": 5.0,
+        "Sinh": 6.25
+      },
+      "tong": 27.55,
+      "tbHocKy": 5.51,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 219,
+      "sbd": "10000181",
+      "hoTen": "NGUYỄN PHƯƠNG LINH",
+      "lop": "10A4",
+      "diem": {
+        "Toán": 6.7,
+        "Văn": 7.75,
+        "Lý": 4.6,
+        "Hóa": 5.75,
+        "Sinh": 5.75
+      },
+      "tong": 30.55,
+      "tbHocKy": 6.11,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 220,
+      "sbd": "10000191",
+      "hoTen": "PHAN VÕ HOÀNG LONG",
+      "lop": "10A4",
+      "diem": {
+        "Toán": 7.0,
+        "Văn": 7.75,
+        "Lý": 4.1,
+        "Hóa": 7.5,
+        "Sinh": 5.6
+      },
+      "tong": 31.95,
+      "tbHocKy": 6.39,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 221,
+      "sbd": "10000193",
+      "hoTen": "TRẦN UY LONG",
+      "lop": "10A4",
+      "diem": {
+        "Toán": 6.0,
+        "Văn": 6.75,
+        "Lý": 3.95,
+        "Hóa": 5.25,
+        "Sinh": 5.5
+      },
+      "tong": 27.45,
+      "tbHocKy": 5.49,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 222,
+      "sbd": "10000229",
+      "hoTen": "NGUYỄN THỊ KIM NGÂN",
+      "lop": "10A4",
+      "diem": {
+        "Toán": 7.5,
+        "Văn": 8.75,
+        "Lý": 3.75,
+        "Hóa": 9.25,
+        "Sinh": 8.5
+      },
+      "tong": 37.75,
+      "tbHocKy": 7.55,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 223,
+      "sbd": "10000237",
+      "hoTen": "NGUYỄN THỊ BẢO NGỌC",
+      "lop": "10A4",
+      "diem": {
+        "Toán": 7.5,
+        "Văn": 7.0,
+        "Lý": 4.35,
+        "Hóa": 7.5,
+        "Sinh": 5.6
+      },
+      "tong": 31.95,
+      "tbHocKy": 6.39,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 224,
+      "sbd": "10000269",
+      "hoTen": "HỒ THỊ QUỲNH NHƯ",
+      "lop": "10A4",
+      "diem": {
+        "Toán": 9.0,
+        "Văn": 7.0,
+        "Lý": 3.1,
+        "Hóa": 6.35,
+        "Sinh": 5.75
+      },
+      "tong": 31.2,
+      "tbHocKy": 6.24,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 225,
+      "sbd": "10000293",
+      "hoTen": "NGUYỄN HOÀNG TRUNG QUÂN",
+      "lop": "10A4",
+      "diem": {
+        "Toán": 6.75,
+        "Văn": 7.5,
+        "Lý": 3.85,
+        "Hóa": 5.5,
+        "Sinh": 5.5
+      },
+      "tong": 29.1,
+      "tbHocKy": 5.82,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 226,
+      "sbd": "10000304",
+      "hoTen": "VÕ THỊ DIỄM QUỲNH",
+      "lop": "10A4",
+      "diem": {
+        "Toán": 5.25,
+        "Văn": 7.75,
+        "Lý": 3.6,
+        "Hóa": 5.75,
+        "Sinh": 5.25
+      },
+      "tong": 27.6,
+      "tbHocKy": 5.52,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 227,
+      "sbd": "10000307",
+      "hoTen": "NGUYỄN KHÁNH SANG",
+      "lop": "10A4",
+      "diem": {
+        "Toán": 6.5,
+        "Văn": 7.0,
+        "Lý": 5.35,
+        "Hóa": 8.75,
+        "Sinh": 5.35
+      },
+      "tong": 32.95,
+      "tbHocKy": 6.59,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 228,
+      "sbd": "10000322",
+      "hoTen": "TRẦN ÐÌNH HOÀNG THÁI",
+      "lop": "10A4",
+      "diem": {
+        "Toán": 5.5,
+        "Văn": 4.0,
+        "Lý": 5.0,
+        "Hóa": 6.75,
+        "Sinh": 3.35
+      },
+      "tong": 24.6,
+      "tbHocKy": 4.92,
+      "xepLoai": "Yếu"
+    },
+    {
+      "stt": 229,
+      "sbd": "10000334",
+      "hoTen": "TRẦN THỊ THẮM",
+      "lop": "10A4",
+      "diem": {
+        "Toán": 4.35,
+        "Văn": 5.75,
+        "Lý": 2.7,
+        "Hóa": 5.75,
+        "Sinh": 3.6
+      },
+      "tong": 22.15,
+      "tbHocKy": 4.43,
+      "xepLoai": "Yếu"
+    },
+    {
+      "stt": 230,
+      "sbd": "10000340",
+      "hoTen": "NGUYỄN THỊ DIỆU THU",
+      "lop": "10A4",
+      "diem": {
+        "Toán": 9.0,
+        "Văn": 7.5,
+        "Lý": 8.5,
+        "Hóa": 9.0,
+        "Sinh": 8.0
+      },
+      "tong": 42.0,
+      "tbHocKy": 8.4,
+      "xepLoai": "Giỏi"
+    },
+    {
+      "stt": 231,
+      "sbd": "10000349",
+      "hoTen": "VÕ THỊ ANH THƯ",
+      "lop": "10A4",
+      "diem": {
+        "Toán": 6.25,
+        "Văn": 8.5,
+        "Lý": 5.5,
+        "Hóa": 7.5,
+        "Sinh": 6.0
+      },
+      "tong": 33.75,
+      "tbHocKy": 6.75,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 232,
+      "sbd": "10000371",
+      "hoTen": "NGUYỄN THỊ THÙY TRANG",
+      "lop": "10A4",
+      "diem": {
+        "Toán": 6.6,
+        "Văn": 8.0,
+        "Lý": 5.35,
+        "Hóa": 6.5,
+        "Sinh": 6.25
+      },
+      "tong": 32.7,
+      "tbHocKy": 6.54,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 233,
+      "sbd": "10000380",
+      "hoTen": "PHAN THÙY TRÂM",
+      "lop": "10A4",
+      "diem": {
+        "Toán": 8.75,
+        "Văn": 8.0,
+        "Lý": 3.35,
+        "Hóa": 6.25,
+        "Sinh": 4.25
+      },
+      "tong": 30.6,
+      "tbHocKy": 6.12,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 234,
+      "sbd": "10000401",
+      "hoTen": "NGUYỄN HẠO VĂN",
+      "lop": "10A4",
+      "diem": {
+        "Toán": 6.75,
+        "Văn": 7.75,
+        "Lý": 7.25,
+        "Hóa": 8.75,
+        "Sinh": 7.75
+      },
+      "tong": 38.25,
+      "tbHocKy": 7.65,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 235,
+      "sbd": "10000410",
+      "hoTen": "NGUYỄN VǍN VIỆT",
+      "lop": "10A4",
+      "diem": {
+        "Toán": 4.5,
+        "Văn": 7.0,
+        "Lý": 4.6,
+        "Hóa": 4.25,
+        "Sinh": 5.75
+      },
+      "tong": 26.1,
+      "tbHocKy": 5.22,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 236,
+      "sbd": "10000419",
+      "hoTen": "LÊ THỊ HỒNG VY",
+      "lop": "10A4",
+      "diem": {
+        "Toán": 3.95,
+        "Văn": 7.25,
+        "Lý": 3.25,
+        "Hóa": 7.25,
+        "Sinh": 5.35
+      },
+      "tong": 27.05,
+      "tbHocKy": 5.41,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 237,
+      "sbd": "10000010",
+      "hoTen": "BÙI LAN ANH",
+      "lop": "10A5",
+      "diem": {
+        "Toán": 7.75,
+        "Văn": 7.25,
+        "Anh": 6.5,
+        "Lý": 6.85,
+        "Hóa": 7.0
+      },
+      "tong": 35.35,
+      "tbHocKy": 7.07,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 238,
+      "sbd": "10000011",
+      "hoTen": "DƯƠNG HOÀNG ANH",
+      "lop": "10A5",
+      "diem": {
+        "Toán": 6.6,
+        "Văn": 7.25,
+        "Anh": 5.75,
+        "Lý": 6.75,
+        "Hóa": 7.0
+      },
+      "tong": 33.35,
+      "tbHocKy": 6.67,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 239,
+      "sbd": "10000014",
+      "hoTen": "HỒ LÝ PHAN ANH",
+      "lop": "10A5",
+      "diem": {
+        "Toán": 9.0,
+        "Văn": 7.0,
+        "Anh": 6.5,
+        "Lý": 9.0,
+        "Hóa": 6.5
+      },
+      "tong": 38.0,
+      "tbHocKy": 7.6,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 240,
+      "sbd": "10000022",
+      "hoTen": "TRẦN THỊ LAN ANH",
+      "lop": "10A5",
+      "diem": {
+        "Toán": 8.5,
+        "Văn": 7.5,
+        "Anh": 6.25,
+        "Lý": 7.5,
+        "Hóa": 7.25
+      },
+      "tong": 37.0,
+      "tbHocKy": 7.4,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 241,
+      "sbd": "10000029",
+      "hoTen": "NGUYỄN HOÀNG BÁCH",
+      "lop": "10A5",
+      "diem": {
+        "Toán": 9.0,
+        "Văn": 7.5,
+        "Anh": 8.0,
+        "Lý": 8.5,
+        "Hóa": 8.25
+      },
+      "tong": 41.25,
+      "tbHocKy": 8.25,
+      "xepLoai": "Giỏi"
+    },
+    {
+      "stt": 242,
+      "sbd": "10000031",
+      "hoTen": "DƯƠNG THIÊN BẢO",
+      "lop": "10A5",
+      "diem": {
+        "Toán": 8.25,
+        "Văn": 8.0,
+        "Anh": 6.0,
+        "Lý": 6.25,
+        "Hóa": 4.25
+      },
+      "tong": 32.75,
+      "tbHocKy": 6.55,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 243,
+      "sbd": "10000048",
+      "hoTen": "TRƯƠNG QUỐC BÌNH",
+      "lop": "10A5",
+      "diem": {
+        "Toán": 9.0,
+        "Văn": 7.0,
+        "Anh": 4.75,
+        "Lý": 8.0,
+        "Hóa": 6.25
+      },
+      "tong": 35.0,
+      "tbHocKy": 7.0,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 244,
+      "sbd": "10000061",
+      "hoTen": "NGÔ NAM CƯỜNG",
+      "lop": "10A5",
+      "diem": {
+        "Toán": 9.5,
+        "Văn": 7.0,
+        "Anh": 6.25,
+        "Lý": 7.0,
+        "Hóa": 6.75
+      },
+      "tong": 36.5,
+      "tbHocKy": 7.3,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 245,
+      "sbd": "10000069",
+      "hoTen": "ĐẶNG THÙY DUNG",
+      "lop": "10A5",
+      "diem": {
+        "Toán": 9.0,
+        "Văn": 7.5,
+        "Anh": 5.0,
+        "Lý": 9.25,
+        "Hóa": 9.0
+      },
+      "tong": 39.75,
+      "tbHocKy": 7.95,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 246,
+      "sbd": "10000073",
+      "hoTen": "LÊ VǍN DUY",
+      "lop": "10A5",
+      "diem": {
+        "Toán": 7.0,
+        "Văn": 6.25,
+        "Anh": 6.0,
+        "Lý": 5.35,
+        "Hóa": 6.5
+      },
+      "tong": 31.1,
+      "tbHocKy": 6.22,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 247,
+      "sbd": "10000097",
+      "hoTen": "TRẦN TIẾN ĐÔNG",
+      "lop": "10A5",
+      "diem": {
+        "Toán": 6.5,
+        "Văn": 7.5,
+        "Anh": 5.5,
+        "Lý": 6.25,
+        "Hóa": 7.25
+      },
+      "tong": 33.0,
+      "tbHocKy": 6.6,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 248,
+      "sbd": "10000109",
+      "hoTen": "LÊ MINH HẰNG",
+      "lop": "10A5",
+      "diem": {
+        "Toán": 9.5,
+        "Văn": 8.25,
+        "Anh": 7.5,
+        "Lý": 8.75,
+        "Hóa": 8.5
+      },
+      "tong": 42.5,
+      "tbHocKy": 8.5,
+      "xepLoai": "Giỏi"
+    },
+    {
+      "stt": 249,
+      "sbd": "10000126",
+      "hoTen": "TRẦN ÐÌNH HOÀNG",
+      "lop": "10A5",
+      "diem": {
+        "Toán": 8.5,
+        "Văn": 6.75,
+        "Anh": 6.75,
+        "Lý": 9.25,
+        "Hóa": 6.75
+      },
+      "tong": 38.0,
+      "tbHocKy": 7.6,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 250,
+      "sbd": "10000142",
+      "hoTen": "NGUYỄN TRỌNG NHẬT HUY",
+      "lop": "10A5",
+      "diem": {
+        "Toán": 6.5,
+        "Văn": 6.75,
+        "Anh": 7.75,
+        "Lý": 7.5,
+        "Hóa": 7.5
+      },
+      "tong": 36.0,
+      "tbHocKy": 7.2,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 251,
+      "sbd": "10000146",
+      "hoTen": "TRẦN VǍN KHÁNH HUY",
+      "lop": "10A5",
+      "diem": {
+        "Toán": 7.75,
+        "Văn": 6.75,
+        "Anh": 8.5,
+        "Lý": 6.5,
+        "Hóa": 8.0
+      },
+      "tong": 37.5,
+      "tbHocKy": 7.5,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 252,
+      "sbd": "10000155",
+      "hoTen": "NGUYỄN BẢO HƯNG",
+      "lop": "10A5",
+      "diem": {
+        "Toán": 6.5,
+        "Văn": 6.5,
+        "Anh": 6.0,
+        "Lý": 6.25,
+        "Hóa": 5.1
+      },
+      "tong": 30.35,
+      "tbHocKy": 6.07,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 253,
+      "sbd": "10000167",
+      "hoTen": "TRẦN CÔNG KHIÊM",
+      "lop": "10A5",
+      "diem": {
+        "Toán": 7.5,
+        "Văn": 7.25,
+        "Anh": 5.5,
+        "Lý": 5.75,
+        "Hóa": 8.75
+      },
+      "tong": 34.75,
+      "tbHocKy": 6.95,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 254,
+      "sbd": "10000199",
+      "hoTen": "TRẦN THỊ KHÁNH LY",
+      "lop": "10A5",
+      "diem": {
+        "Toán": 9.0,
+        "Văn": 8.0,
+        "Anh": 7.0,
+        "Lý": 10.0,
+        "Hóa": 8.75
+      },
+      "tong": 42.75,
+      "tbHocKy": 8.55,
+      "xepLoai": "Giỏi"
+    },
+    {
+      "stt": 255,
+      "sbd": "10000202",
+      "hoTen": "TRẦN THỊ PHƯƠNG MAI",
+      "lop": "10A5",
+      "diem": {
+        "Toán": 6.75,
+        "Văn": 7.25,
+        "Anh": 6.25,
+        "Lý": 6.1,
+        "Hóa": 5.75
+      },
+      "tong": 32.1,
+      "tbHocKy": 6.42,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 256,
+      "sbd": "10000206",
+      "hoTen": "NGUYỄN TIẾN MẠNH",
+      "lop": "10A5",
+      "diem": {
+        "Toán": 7.75,
+        "Văn": 7.25,
+        "Anh": 7.0,
+        "Lý": 7.5,
+        "Hóa": 4.6
+      },
+      "tong": 34.1,
+      "tbHocKy": 6.82,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 257,
+      "sbd": "10000209",
+      "hoTen": "TRẦN VǍN MẠNH",
+      "lop": "10A5",
+      "diem": {
+        "Toán": 8.0,
+        "Văn": 6.75,
+        "Anh": 5.75,
+        "Lý": 6.5,
+        "Hóa": 6.75
+      },
+      "tong": 33.75,
+      "tbHocKy": 6.75,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 258,
+      "sbd": "10000212",
+      "hoTen": "NGUYỄN NHẬT MINH",
+      "lop": "10A5",
+      "diem": {
+        "Toán": 8.0,
+        "Văn": 7.0,
+        "Anh": 7.75,
+        "Lý": 9.5,
+        "Hóa": 6.25
+      },
+      "tong": 38.5,
+      "tbHocKy": 7.7,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 259,
+      "sbd": "10000238",
+      "hoTen": "NGUYỄN THỊ BẢO NGỌC",
+      "lop": "10A5",
+      "diem": {
+        "Toán": 7.85,
+        "Văn": 7.5,
+        "Anh": 5.25,
+        "Lý": 9.5,
+        "Hóa": 6.5
+      },
+      "tong": 36.6,
+      "tbHocKy": 7.32,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 260,
+      "sbd": "10000284",
+      "hoTen": "TRẦN MAI HÀ PHƯƠNG",
+      "lop": "10A5",
+      "diem": {
+        "Toán": 7.5,
+        "Văn": 7.5,
+        "Anh": 6.25,
+        "Lý": 8.75,
+        "Hóa": 7.5
+      },
+      "tong": 37.5,
+      "tbHocKy": 7.5,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 261,
+      "sbd": "10000291",
+      "hoTen": "LÊ ÐẮC QUÂN",
+      "lop": "10A5",
+      "diem": {
+        "Toán": 6.0,
+        "Văn": 7.75,
+        "Anh": 5.25,
+        "Lý": 5.0,
+        "Hóa": 5.0
+      },
+      "tong": 29.0,
+      "tbHocKy": 5.8,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 262,
+      "sbd": "10000294",
+      "hoTen": "NGUYỄN QUANG QUÂN",
+      "lop": "10A5",
+      "diem": {
+        "Toán": 7.75,
+        "Văn": 7.75,
+        "Anh": 5.75,
+        "Lý": 5.75,
+        "Hóa": 6.75
+      },
+      "tong": 33.75,
+      "tbHocKy": 6.75,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 263,
+      "sbd": "10000308",
+      "hoTen": "BÙI ĐỨC SÁNG",
+      "lop": "10A5",
+      "diem": {
+        "Toán": 4.5,
+        "Văn": 6.25,
+        "Anh": 3.75,
+        "Lý": 4.0,
+        "Hóa": 6.25
+      },
+      "tong": 24.75,
+      "tbHocKy": 4.95,
+      "xepLoai": "Yếu"
+    },
+    {
+      "stt": 264,
+      "sbd": "10000318",
+      "hoTen": "NGUYỄN TRỌNG TẤN",
+      "lop": "10A5",
+      "diem": {
+        "Toán": 7.75,
+        "Văn": 5.0,
+        "Anh": 6.25,
+        "Lý": 7.75,
+        "Hóa": 6.25
+      },
+      "tong": 33.0,
+      "tbHocKy": 6.6,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 265,
+      "sbd": "10000335",
+      "hoTen": "NGUYỄN CHÍNH THẮNG",
+      "lop": "10A5",
+      "diem": {
+        "Toán": 8.0,
+        "Văn": 5.25,
+        "Anh": 5.25,
+        "Lý": 8.25,
+        "Hóa": 8.25
+      },
+      "tong": 35.0,
+      "tbHocKy": 7.0,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 266,
+      "sbd": "10000354",
+      "hoTen": "DƯƠNG NGỌC THỦY TIÊN",
+      "lop": "10A5",
+      "diem": {
+        "Toán": 6.75,
+        "Văn": 8.25,
+        "Anh": 8.25,
+        "Lý": 7.5,
+        "Hóa": 6.75
+      },
+      "tong": 37.5,
+      "tbHocKy": 7.5,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 267,
+      "sbd": "10000359",
+      "hoTen": "NGUYỄN VǍN TIẾN",
+      "lop": "10A5",
+      "diem": {
+        "Toán": 7.6,
+        "Văn": 7.5,
+        "Anh": 5.0,
+        "Lý": 6.75,
+        "Hóa": 6.5
+      },
+      "tong": 33.35,
+      "tbHocKy": 6.67,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 268,
+      "sbd": "10000372",
+      "hoTen": "NGUYỄN THÙY TRANG",
+      "lop": "10A5",
+      "diem": {
+        "Toán": 6.1,
+        "Văn": 8.25,
+        "Anh": 3.75,
+        "Lý": 4.2,
+        "Hóa": 2.6
+      },
+      "tong": 24.9,
+      "tbHocKy": 4.98,
+      "xepLoai": "Yếu"
+    },
+    {
+      "stt": 269,
+      "sbd": "10000381",
+      "hoTen": "TRẦN THỊ THÙY TRÂM",
+      "lop": "10A5",
+      "diem": {
+        "Toán": 7.1,
+        "Văn": 8.25,
+        "Anh": 6.0,
+        "Lý": 6.75,
+        "Hóa": 6.25
+      },
+      "tong": 34.35,
+      "tbHocKy": 6.87,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 270,
+      "sbd": "10000404",
+      "hoTen": "ÂU THỊ TƯỜNG VI",
+      "lop": "10A5",
+      "diem": {
+        "Toán": 8.5,
+        "Văn": 8.25,
+        "Anh": 5.75,
+        "Lý": 8.5,
+        "Hóa": 8.25
+      },
+      "tong": 39.25,
+      "tbHocKy": 7.85,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 271,
+      "sbd": "10000418",
+      "hoTen": "NGUYỄN ĐÌNH VŨ",
+      "lop": "10A5",
+      "diem": {
+        "Toán": 7.25,
+        "Văn": 6.75,
+        "Anh": 6.75,
+        "Lý": 7.75,
+        "Hóa": 5.25
+      },
+      "tong": 33.75,
+      "tbHocKy": 6.75,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 272,
+      "sbd": "10000020",
+      "hoTen": "NGUYỄN VǍN TUẤN ANH",
+      "lop": "10A6",
+      "diem": {
+        "Toán": 4.45,
+        "Văn": 6.5,
+        "Sử": 4.6,
+        "Địa": 5.0,
+        "KTPL": 5.25
+      },
+      "tong": 25.8,
+      "tbHocKy": 5.16,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 273,
+      "sbd": "10000038",
+      "hoTen": "NGUYỄN HOÀNG GIA BẢO",
+      "lop": "10A6",
+      "diem": {
+        "Toán": 3.35,
+        "Văn": 7.25,
+        "Sử": 4.1,
+        "Địa": 5.0,
+        "KTPL": 6.0
+      },
+      "tong": 25.7,
+      "tbHocKy": 5.14,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 274,
+      "sbd": "10000045",
+      "hoTen": "NGUYỄN THỊ THANH BÌNH",
+      "lop": "10A6",
+      "diem": {
+        "Toán": 5.25,
+        "Văn": 7.25,
+        "Sử": 5.25,
+        "Địa": 4.8,
+        "KTPL": 5.5
+      },
+      "tong": 28.0,
+      "tbHocKy": 5.6,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 275,
+      "sbd": "10000067",
+      "hoTen": "DƯƠNG TRÍ DIỆU",
+      "lop": "10A6",
+      "diem": {
+        "Toán": 5.6,
+        "Văn": 7.25,
+        "Sử": 7.75,
+        "Địa": 7.8,
+        "KTPL": 6.75
+      },
+      "tong": 35.1,
+      "tbHocKy": 7.02,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 276,
+      "sbd": "10000079",
+      "hoTen": "TRẦN VǍN DƯƠNG",
+      "lop": "10A6",
+      "diem": {
+        "Toán": 5.25,
+        "Văn": 5.5,
+        "Sử": 5.25,
+        "Địa": 6.8,
+        "KTPL": 5.85
+      },
+      "tong": 28.6,
+      "tbHocKy": 5.72,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 277,
+      "sbd": "10000081",
+      "hoTen": "NGUYỄN THỊ LINH ĐAN",
+      "lop": "10A6",
+      "diem": {
+        "Toán": 6.35,
+        "Văn": 7.0,
+        "Sử": 5.75,
+        "Địa": 6.5,
+        "KTPL": 8.25
+      },
+      "tong": 33.85,
+      "tbHocKy": 6.77,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 278,
+      "sbd": "10000099",
+      "hoTen": "HỒ HƯƠNG GIANG",
+      "lop": "10A6",
+      "diem": {
+        "Toán": 6.5,
+        "Văn": 8.5,
+        "Sử": 8.0,
+        "Địa": 8.0,
+        "KTPL": 6.0
+      },
+      "tong": 37.0,
+      "tbHocKy": 7.4,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 279,
+      "sbd": "10000104",
+      "hoTen": "NGUYỄN ĐÌNH HẢI",
+      "lop": "10A6",
+      "diem": {
+        "Toán": 4.5,
+        "Văn": 7.0,
+        "Sử": 5.6,
+        "Địa": 6.5,
+        "KTPL": 5.75
+      },
+      "tong": 29.35,
+      "tbHocKy": 5.87,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 280,
+      "sbd": "10000105",
+      "hoTen": "NGUYỄN THỊ MỸ HẢI",
+      "lop": "10A6",
+      "diem": {
+        "Toán": 5.35,
+        "Văn": 9.0,
+        "Sử": 9.0,
+        "Địa": 7.5,
+        "KTPL": 7.5
+      },
+      "tong": 38.35,
+      "tbHocKy": 7.67,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 281,
+      "sbd": "10000116",
+      "hoTen": "NGUYỄN THỪA HIẾU",
+      "lop": "10A6",
+      "diem": {
+        "Toán": 0.85,
+        "Văn": 0.0,
+        "Sử": 1.75,
+        "Địa": 1.3,
+        "KTPL": 2.7
+      },
+      "tong": 6.55,
+      "tbHocKy": 1.31,
+      "xepLoai": "Yếu"
+    },
+    {
+      "stt": 282,
+      "sbd": "10000122",
+      "hoTen": "DƯƠNG HỮU HOÀNG",
+      "lop": "10A6",
+      "diem": {
+        "Toán": 2.75,
+        "Văn": 7.0,
+        "Sử": 6.0,
+        "Địa": 6.3,
+        "KTPL": 6.25
+      },
+      "tong": 28.25,
+      "tbHocKy": 5.65,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 283,
+      "sbd": "10000128",
+      "hoTen": "LÊ THANH HUỆ",
+      "lop": "10A6",
+      "diem": {
+        "Toán": 7.0,
+        "Văn": 7.25,
+        "Sử": 8.25,
+        "Địa": 8.3,
+        "KTPL": 7.75
+      },
+      "tong": 38.5,
+      "tbHocKy": 7.7,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 284,
+      "sbd": "10000152",
+      "hoTen": "TRẦN THỊ KHÁNH HUYỀN",
+      "lop": "10A6",
+      "diem": {
+        "Toán": 2.9,
+        "Văn": 6.5,
+        "Sử": 7.75,
+        "Địa": 5.9,
+        "KTPL": 6.0
+      },
+      "tong": 29.0,
+      "tbHocKy": 5.8,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 285,
+      "sbd": "10000194",
+      "hoTen": "TRƯƠNG THÀNH LONG",
+      "lop": "10A6",
+      "diem": {
+        "Toán": 5.25,
+        "Văn": 6.5,
+        "Sử": 6.25,
+        "Địa": 6.5,
+        "KTPL": 5.5
+      },
+      "tong": 30.0,
+      "tbHocKy": 6.0,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 286,
+      "sbd": "10000198",
+      "hoTen": "NGUYỄN THỊ YẾN LY",
+      "lop": "10A6",
+      "diem": {
+        "Toán": 4.7,
+        "Văn": 7.5,
+        "Sử": 8.5,
+        "Địa": 6.3,
+        "KTPL": 7.6
+      },
+      "tong": 34.55,
+      "tbHocKy": 6.91,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 287,
+      "sbd": "10000216",
+      "hoTen": "TRẦN NGUYỄN TRÀ MY",
+      "lop": "10A6",
+      "diem": {
+        "Toán": 2.75,
+        "Văn": 6.5,
+        "Sử": 4.35,
+        "Địa": 4.3,
+        "KTPL": 2.6
+      },
+      "tong": 20.45,
+      "tbHocKy": 4.09,
+      "xepLoai": "Yếu"
+    },
+    {
+      "stt": 288,
+      "sbd": "10000221",
+      "hoTen": "NGUYỄN THỊ AN NA",
+      "lop": "10A6",
+      "diem": {
+        "Toán": 4.0,
+        "Văn": 6.75,
+        "Sử": 6.75,
+        "Địa": 5.8,
+        "KTPL": 5.5
+      },
+      "tong": 28.75,
+      "tbHocKy": 5.75,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 289,
+      "sbd": "10000233",
+      "hoTen": "NGUYỄN ĐÌNH TUẤN NGỌC",
+      "lop": "10A6",
+      "diem": {
+        "Toán": 5.5,
+        "Văn": 8.0,
+        "Sử": 7.5,
+        "Địa": 7.8,
+        "KTPL": 6.75
+      },
+      "tong": 35.5,
+      "tbHocKy": 7.1,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 290,
+      "sbd": "10000263",
+      "hoTen": "NGUYỄN THỊ LINH NHI",
+      "lop": "10A6",
+      "diem": {
+        "Toán": 3.5,
+        "Văn": 7.75,
+        "Sử": 6.6,
+        "Địa": 6.8,
+        "KTPL": 6.75
+      },
+      "tong": 31.35,
+      "tbHocKy": 6.27,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 291,
+      "sbd": "10000267",
+      "hoTen": "VÕ THỊ YẾN NHI",
+      "lop": "10A6",
+      "diem": {
+        "Toán": 4.6,
+        "Văn": 7.0,
+        "Sử": 7.0,
+        "Địa": 4.3,
+        "KTPL": 7.5
+      },
+      "tong": 30.35,
+      "tbHocKy": 6.07,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 292,
+      "sbd": "10000289",
+      "hoTen": "DƯƠNG TRÍ QUÂN",
+      "lop": "10A6",
+      "diem": {
+        "Toán": 6.1,
+        "Văn": 8.5,
+        "Sử": 9.0,
+        "Địa": 7.5,
+        "KTPL": 7.0
+      },
+      "tong": 38.1,
+      "tbHocKy": 7.62,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 293,
+      "sbd": "10000300",
+      "hoTen": "NGUYỄN THỊ DIỂM QUỲNH",
+      "lop": "10A6",
+      "diem": {
+        "Toán": 2.45,
+        "Văn": 7.75,
+        "Sử": 6.1,
+        "Địa": 5.8,
+        "KTPL": 6.1
+      },
+      "tong": 28.15,
+      "tbHocKy": 5.63,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 294,
+      "sbd": "10000303",
+      "hoTen": "NGUYỄN THỊ THÚY QUỲNH",
+      "lop": "10A6",
+      "diem": {},
+      "tong": null,
+      "tbHocKy": null,
+      "xepLoai": null
+    },
+    {
+      "stt": 295,
+      "sbd": "10000305",
+      "hoTen": "VÕ THỊ NHƯ QUỲNH",
+      "lop": "10A6",
+      "diem": {
+        "Toán": 2.3,
+        "Văn": 7.5,
+        "Sử": 5.0,
+        "Địa": 3.6,
+        "KTPL": 4.25
+      },
+      "tong": 22.65,
+      "tbHocKy": 4.53,
+      "xepLoai": "Yếu"
+    },
+    {
+      "stt": 296,
+      "sbd": "10000311",
+      "hoTen": "DƯƠNG TRÍ TÀI",
+      "lop": "10A6",
+      "diem": {
+        "Toán": 2.35,
+        "Văn": 6.75,
+        "Sử": 6.5,
+        "Địa": 5.0,
+        "KTPL": 4.75
+      },
+      "tong": 25.35,
+      "tbHocKy": 5.07,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 297,
+      "sbd": "10000317",
+      "hoTen": "ĐẶNG THẾ TẤN",
+      "lop": "10A6",
+      "diem": {
+        "Toán": 4.25,
+        "Văn": 6.25,
+        "Sử": 6.25,
+        "Địa": 5.0,
+        "KTPL": 5.25
+      },
+      "tong": 27.0,
+      "tbHocKy": 5.4,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 298,
+      "sbd": "10000326",
+      "hoTen": "PHẠM VǍN TUẤN THÀNH",
+      "lop": "10A6",
+      "diem": {
+        "Toán": 3.1,
+        "Văn": 8.0,
+        "Sử": 4.6,
+        "Địa": 5.0,
+        "KTPL": 4.25
+      },
+      "tong": 24.95,
+      "tbHocKy": 4.99,
+      "xepLoai": "Yếu"
+    },
+    {
+      "stt": 299,
+      "sbd": "10000332",
+      "hoTen": "TRẦN THỊ THẢO",
+      "lop": "10A6",
+      "diem": {
+        "Toán": 3.1,
+        "Văn": 7.5,
+        "Sử": 7.0,
+        "Địa": 6.3,
+        "KTPL": 6.35
+      },
+      "tong": 30.2,
+      "tbHocKy": 6.04,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 300,
+      "sbd": "10000337",
+      "hoTen": "NGUYỄN ANH THƠ",
+      "lop": "10A6",
+      "diem": {
+        "Toán": 2.85,
+        "Văn": 7.25,
+        "Sử": 6.25,
+        "Địa": 6.3,
+        "KTPL": 5.7
+      },
+      "tong": 28.3,
+      "tbHocKy": 5.66,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 301,
+      "sbd": "10000341",
+      "hoTen": "ĐẶNG THỊ THUÝ",
+      "lop": "10A6",
+      "diem": {
+        "Toán": 3.0,
+        "Văn": 7.5,
+        "Sử": 5.25,
+        "Địa": 3.4,
+        "KTPL": 5.95
+      },
+      "tong": 25.05,
+      "tbHocKy": 5.01,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 302,
+      "sbd": "10000358",
+      "hoTen": "NGUYỄN VǍN TIẾN",
+      "lop": "10A6",
+      "diem": {
+        "Toán": 4.5,
+        "Văn": 7.25,
+        "Sử": 8.0,
+        "Địa": 9.0,
+        "KTPL": 6.0
+      },
+      "tong": 34.75,
+      "tbHocKy": 6.95,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 303,
+      "sbd": "10000368",
+      "hoTen": "HỒ THỊ HUYỀN TRANG",
+      "lop": "10A6",
+      "diem": {
+        "Toán": 4.35,
+        "Văn": 9.0,
+        "Sử": 6.0,
+        "Địa": 7.5,
+        "KTPL": 7.0
+      },
+      "tong": 33.85,
+      "tbHocKy": 6.77,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 304,
+      "sbd": "10000391",
+      "hoTen": "DƯƠNG NGUYỄN ANH TUẤN",
+      "lop": "10A6",
+      "diem": {
+        "Toán": 4.75,
+        "Văn": 8.25,
+        "Sử": 6.25,
+        "Địa": 7.3,
+        "KTPL": 6.75
+      },
+      "tong": 33.25,
+      "tbHocKy": 6.65,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 305,
+      "sbd": "10000407",
+      "hoTen": "TRƯƠNG THỊ TƯỜNG VI",
+      "lop": "10A6",
+      "diem": {
+        "Toán": 2.95,
+        "Văn": 7.75,
+        "Sử": 5.5,
+        "Địa": 5.5,
+        "KTPL": 5.0
+      },
+      "tong": 26.7,
+      "tbHocKy": 5.34,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 306,
+      "sbd": "10000417",
+      "hoTen": "NGUYỄN DUY VŨ",
+      "lop": "10A6",
+      "diem": {
+        "Toán": 5.25,
+        "Văn": 5.25,
+        "Sử": 5.85,
+        "Địa": 3.9,
+        "KTPL": 4.75
+      },
+      "tong": 24.95,
+      "tbHocKy": 4.99,
+      "xepLoai": "Yếu"
+    },
+    {
+      "stt": 307,
+      "sbd": "10000421",
+      "hoTen": "TRẦN THỊ THẢO VY",
+      "lop": "10A6",
+      "diem": {
+        "Toán": 4.35,
+        "Văn": 8.25,
+        "Sử": 6.5,
+        "Địa": 7.8,
+        "KTPL": 4.85
+      },
+      "tong": 31.7,
+      "tbHocKy": 6.34,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 308,
+      "sbd": "10000024",
+      "hoTen": "VÕ HÀ ANH",
+      "lop": "10A7",
+      "diem": {
+        "Toán": 3.6,
+        "Văn": 8.25,
+        "Sử": 5.0,
+        "Địa": 4.4,
+        "KTPL": 5.6
+      },
+      "tong": 26.8,
+      "tbHocKy": 5.36,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 309,
+      "sbd": "10000027",
+      "hoTen": "ĐẬU THỊ DIỆP ÁNH",
+      "lop": "10A7",
+      "diem": {
+        "Toán": 3.5,
+        "Văn": 7.5,
+        "Sử": 6.25,
+        "Địa": 7.0,
+        "KTPL": 5.0
+      },
+      "tong": 29.25,
+      "tbHocKy": 5.85,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 310,
+      "sbd": "10000036",
+      "hoTen": "NGUYỄN ĐÌNH BẢO",
+      "lop": "10A7",
+      "diem": {
+        "Toán": 7.6,
+        "Văn": 7.25,
+        "Sử": 5.0,
+        "Địa": 3.8,
+        "KTPL": 4.6
+      },
+      "tong": 28.2,
+      "tbHocKy": 5.64,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 311,
+      "sbd": "10000074",
+      "hoTen": "NGUYỄN THỪA ĐỨC DUY",
+      "lop": "10A7",
+      "diem": {
+        "Toán": 3.75,
+        "Văn": 6.25,
+        "Sử": 5.0,
+        "Địa": 6.0,
+        "KTPL": 6.1
+      },
+      "tong": 27.1,
+      "tbHocKy": 5.42,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 312,
+      "sbd": "10000095",
+      "hoTen": "VÕ TÁ VIỆT ĐỨC",
+      "lop": "10A7",
+      "diem": {
+        "Toán": 7.25,
+        "Văn": 8.5,
+        "Sử": 7.75,
+        "Địa": 9.5,
+        "KTPL": 8.0
+      },
+      "tong": 41.0,
+      "tbHocKy": 8.2,
+      "xepLoai": "Giỏi"
+    },
+    {
+      "stt": 313,
+      "sbd": "10000103",
+      "hoTen": "PHẠM THỊ THU HÀ",
+      "lop": "10A7",
+      "diem": {
+        "Toán": 2.2,
+        "Văn": 8.0,
+        "Sử": 4.0,
+        "Địa": 5.3,
+        "KTPL": 4.45
+      },
+      "tong": 23.9,
+      "tbHocKy": 4.78,
+      "xepLoai": "Yếu"
+    },
+    {
+      "stt": 314,
+      "sbd": "10000107",
+      "hoTen": "NGUYỄN THỊ DIỂM HẠNH",
+      "lop": "10A7",
+      "diem": {
+        "Toán": 2.0,
+        "Văn": 7.75,
+        "Sử": 6.5,
+        "Địa": 4.8,
+        "KTPL": 6.0
+      },
+      "tong": 27.0,
+      "tbHocKy": 5.4,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 315,
+      "sbd": "10000114",
+      "hoTen": "NGUYỄN THANH HIỀN",
+      "lop": "10A7",
+      "diem": {
+        "Toán": 4.35,
+        "Văn": 8.25,
+        "Sử": 6.0,
+        "Địa": 7.0,
+        "KTPL": 6.25
+      },
+      "tong": 31.85,
+      "tbHocKy": 6.37,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 316,
+      "sbd": "10000120",
+      "hoTen": "NGUYỄN THỊ YẾN HOA",
+      "lop": "10A7",
+      "diem": {
+        "Toán": 4.85,
+        "Văn": 7.5,
+        "Sử": 5.5,
+        "Địa": 5.0,
+        "KTPL": 6.25
+      },
+      "tong": 29.1,
+      "tbHocKy": 5.82,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 317,
+      "sbd": "10000123",
+      "hoTen": "LÊ ĐÌNH HOÀNG",
+      "lop": "10A7",
+      "diem": {
+        "Toán": 3.6,
+        "Văn": 8.0,
+        "Sử": 8.0,
+        "Địa": 6.5,
+        "KTPL": 5.5
+      },
+      "tong": 31.6,
+      "tbHocKy": 6.32,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 318,
+      "sbd": "10000132",
+      "hoTen": "NGUYỄN QUỐC HÙNG",
+      "lop": "10A7",
+      "diem": {
+        "Toán": 6.25,
+        "Văn": 5.75,
+        "Sử": 7.75,
+        "Địa": 6.3,
+        "KTPL": 8.0
+      },
+      "tong": 34.0,
+      "tbHocKy": 6.8,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 319,
+      "sbd": "10000139",
+      "hoTen": "HOÀNG VǍN HUY",
+      "lop": "10A7",
+      "diem": {
+        "Toán": 3.95,
+        "Văn": 6.0,
+        "Sử": 5.25,
+        "Địa": 6.0,
+        "KTPL": 6.35
+      },
+      "tong": 27.55,
+      "tbHocKy": 5.51,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 320,
+      "sbd": "10000143",
+      "hoTen": "PHẠM NHƯ NHẬT HUY",
+      "lop": "10A7",
+      "diem": {
+        "Toán": 4.85,
+        "Văn": 7.5,
+        "Sử": 6.0,
+        "Địa": 7.3,
+        "KTPL": 6.25
+      },
+      "tong": 31.85,
+      "tbHocKy": 6.37,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 321,
+      "sbd": "10000153",
+      "hoTen": "VŨ PHAN KHÁNH HUYỀN",
+      "lop": "10A7",
+      "diem": {
+        "Toán": 5.75,
+        "Văn": 6.75,
+        "Sử": 7.25,
+        "Địa": 5.6,
+        "KTPL": 7.25
+      },
+      "tong": 32.6,
+      "tbHocKy": 6.52,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 322,
+      "sbd": "10000184",
+      "hoTen": "NGUYỄNTHỊ KHÁNH LINH",
+      "lop": "10A7",
+      "diem": {
+        "Toán": 3.6,
+        "Văn": 7.75,
+        "Sử": 7.5,
+        "Địa": 7.8,
+        "KTPL": 7.25
+      },
+      "tong": 33.85,
+      "tbHocKy": 6.77,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 323,
+      "sbd": "10000196",
+      "hoTen": "LÊ THỊ KHÁNH LY",
+      "lop": "10A7",
+      "diem": {
+        "Toán": 4.85,
+        "Văn": 8.25,
+        "Sử": 6.6,
+        "Địa": 6.8,
+        "KTPL": 6.5
+      },
+      "tong": 32.95,
+      "tbHocKy": 6.59,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 324,
+      "sbd": "10000200",
+      "hoTen": "DƯƠNG THỊ THIÊN LÝ",
+      "lop": "10A7",
+      "diem": {
+        "Toán": 5.75,
+        "Văn": 7.0,
+        "Sử": 5.85,
+        "Địa": 5.5,
+        "KTPL": 5.5
+      },
+      "tong": 29.6,
+      "tbHocKy": 5.92,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 325,
+      "sbd": "10000205",
+      "hoTen": "NGUYỄN DUY MẠNH",
+      "lop": "10A7",
+      "diem": {
+        "Toán": 3.6,
+        "Văn": 6.25,
+        "Sử": 5.35,
+        "Địa": 6.3,
+        "KTPL": 5.25
+      },
+      "tong": 26.7,
+      "tbHocKy": 5.34,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 326,
+      "sbd": "10000207",
+      "hoTen": "PHẠM ĐỨC MẠNH",
+      "lop": "10A7",
+      "diem": {
+        "Toán": 4.1,
+        "Văn": 5.25,
+        "Sử": 4.25,
+        "Địa": 4.3,
+        "KTPL": 4.35
+      },
+      "tong": 22.2,
+      "tbHocKy": 4.44,
+      "xepLoai": "Yếu"
+    },
+    {
+      "stt": 327,
+      "sbd": "10000218",
+      "hoTen": "NGUYỄN THỊ MỸ",
+      "lop": "10A7",
+      "diem": {
+        "Toán": 2.35,
+        "Văn": 6.0,
+        "Sử": 5.35,
+        "Địa": 3.9,
+        "KTPL": 5.5
+      },
+      "tong": 23.05,
+      "tbHocKy": 4.61,
+      "xepLoai": "Yếu"
+    },
+    {
+      "stt": 328,
+      "sbd": "10000219",
+      "hoTen": "TRẦN LÊ HOA MỸ",
+      "lop": "10A7",
+      "diem": {
+        "Toán": 5.0,
+        "Văn": 8.0,
+        "Sử": 6.5,
+        "Địa": 5.8,
+        "KTPL": 6.6
+      },
+      "tong": 31.85,
+      "tbHocKy": 6.37,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 329,
+      "sbd": "10000223",
+      "hoTen": "NGUYỄN DOÃN BẢO NAM",
+      "lop": "10A7",
+      "diem": {
+        "Toán": 5.0,
+        "Văn": 5.75,
+        "Sử": 8.0,
+        "Địa": 8.5,
+        "KTPL": 7.25
+      },
+      "tong": 34.5,
+      "tbHocKy": 6.9,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 330,
+      "sbd": "10000244",
+      "hoTen": "HOÀNG TRUNG NGUYÊN",
+      "lop": "10A7",
+      "diem": {
+        "Toán": 6.0,
+        "Văn": 6.0,
+        "Sử": 5.75,
+        "Địa": 4.9,
+        "KTPL": 5.5
+      },
+      "tong": 28.1,
+      "tbHocKy": 5.62,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 331,
+      "sbd": "10000245",
+      "hoTen": "LÊ HOÀNG NGUYÊN",
+      "lop": "10A7",
+      "diem": {
+        "Toán": 5.0,
+        "Văn": 7.0,
+        "Sử": 6.75,
+        "Địa": 5.0,
+        "KTPL": 6.1
+      },
+      "tong": 29.85,
+      "tbHocKy": 5.97,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 332,
+      "sbd": "10000258",
+      "hoTen": "NGUYỄN TRỌNG NHẬT",
+      "lop": "10A7",
+      "diem": {
+        "Toán": 5.85,
+        "Văn": 6.75,
+        "Sử": 6.85,
+        "Địa": 4.4,
+        "KTPL": 5.0
+      },
+      "tong": 28.8,
+      "tbHocKy": 5.76,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 333,
+      "sbd": "10000273",
+      "hoTen": "TRẦN THỊ QUỲNH NHƯ",
+      "lop": "10A7",
+      "diem": {
+        "Toán": 7.0,
+        "Văn": 8.5,
+        "Sử": 8.75,
+        "Địa": 7.8,
+        "KTPL": 8.0
+      },
+      "tong": 40.0,
+      "tbHocKy": 8.0,
+      "xepLoai": "Giỏi"
+    },
+    {
+      "stt": 334,
+      "sbd": "10000287",
+      "hoTen": "NGUYỄN VǍN QUANG",
+      "lop": "10A7",
+      "diem": {
+        "Toán": 4.95,
+        "Văn": 7.5,
+        "Sử": 4.75,
+        "Địa": 6.3,
+        "KTPL": 6.45
+      },
+      "tong": 29.9,
+      "tbHocKy": 5.98,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 335,
+      "sbd": "10000290",
+      "hoTen": "HOÀNG ĐÌNH QUÂN",
+      "lop": "10A7",
+      "diem": {
+        "Toán": 2.7,
+        "Văn": 6.5,
+        "Sử": 4.95,
+        "Địa": 3.1,
+        "KTPL": 2.45
+      },
+      "tong": 19.7,
+      "tbHocKy": 3.94,
+      "xepLoai": "Yếu"
+    },
+    {
+      "stt": 336,
+      "sbd": "10000314",
+      "hoTen": "NGUYỄN VǍN TÂM",
+      "lop": "10A7",
+      "diem": {
+        "Toán": 2.75,
+        "Văn": 7.0,
+        "Sử": 4.75,
+        "Địa": 4.8,
+        "KTPL": 6.0
+      },
+      "tong": 25.25,
+      "tbHocKy": 5.05,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 337,
+      "sbd": "10000328",
+      "hoTen": "BÙI THỊ PHƯƠNG THẢO",
+      "lop": "10A7",
+      "diem": {
+        "Toán": 4.7,
+        "Văn": 8.5,
+        "Sử": 6.25,
+        "Địa": 6.0,
+        "KTPL": 6.75
+      },
+      "tong": 32.2,
+      "tbHocKy": 6.44,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 338,
+      "sbd": "10000333",
+      "hoTen": "NGUYỄN PHƯƠNG THẮM",
+      "lop": "10A7",
+      "diem": {
+        "Toán": 3.05,
+        "Văn": 7.25,
+        "Sử": 7.0,
+        "Địa": 5.5,
+        "KTPL": 5.1
+      },
+      "tong": 27.9,
+      "tbHocKy": 5.58,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 339,
+      "sbd": "10000338",
+      "hoTen": "NGUYỄN THỊ ANH THƠ",
+      "lop": "10A7",
+      "diem": {
+        "Toán": 5.85,
+        "Văn": 8.0,
+        "Sử": 9.0,
+        "Địa": 8.3,
+        "KTPL": 6.85
+      },
+      "tong": 37.95,
+      "tbHocKy": 7.59,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 340,
+      "sbd": "10000339",
+      "hoTen": "DƯƠNG THỊ HỒNG THƠM",
+      "lop": "10A7",
+      "diem": {
+        "Toán": 5.1,
+        "Văn": 8.5,
+        "Sử": 5.5,
+        "Địa": 6.3,
+        "KTPL": 7.75
+      },
+      "tong": 33.1,
+      "tbHocKy": 6.62,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 341,
+      "sbd": "10000361",
+      "hoTen": "LƯU VǍN TỊNH",
+      "lop": "10A7",
+      "diem": {
+        "Toán": 4.75,
+        "Văn": 8.25,
+        "Sử": 5.25,
+        "Địa": 5.4,
+        "KTPL": 6.75
+      },
+      "tong": 30.35,
+      "tbHocKy": 6.07,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 342,
+      "sbd": "10000369",
+      "hoTen": "NGUYỄN THỊ HUYỀN TRANG",
+      "lop": "10A7",
+      "diem": {
+        "Toán": 3.45,
+        "Văn": 6.75,
+        "Sử": 3.75,
+        "Địa": 4.8,
+        "KTPL": 3.35
+      },
+      "tong": 22.05,
+      "tbHocKy": 4.41,
+      "xepLoai": "Yếu"
+    },
+    {
+      "stt": 343,
+      "sbd": "10000383",
+      "hoTen": "ĐẶNG THANH TRÚC",
+      "lop": "10A7",
+      "diem": {
+        "Toán": 5.6,
+        "Văn": 8.25,
+        "Sử": 5.35,
+        "Địa": 7.0,
+        "KTPL": 6.25
+      },
+      "tong": 32.45,
+      "tbHocKy": 6.49,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 344,
+      "sbd": "10000396",
+      "hoTen": "PHẠM ANH TUẤN",
+      "lop": "10A7",
+      "diem": {
+        "Toán": 8.5,
+        "Văn": 7.75,
+        "Sử": 8.0,
+        "Địa": 7.3,
+        "KTPL": 6.6
+      },
+      "tong": 38.1,
+      "tbHocKy": 7.62,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 345,
+      "sbd": "10000406",
+      "hoTen": "NGUYỄN THỊ CẨM VI",
+      "lop": "10A7",
+      "diem": {
+        "Toán": 4.75,
+        "Văn": 8.0,
+        "Sử": 7.75,
+        "Địa": 6.1,
+        "KTPL": 6.25
+      },
+      "tong": 32.85,
+      "tbHocKy": 6.57,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 346,
+      "sbd": "10000414",
+      "hoTen": "NGUYỄN VǍN VINH",
+      "lop": "10A7",
+      "diem": {
+        "Toán": 4.75,
+        "Văn": 8.0,
+        "Sử": 7.5,
+        "Địa": 5.9,
+        "KTPL": 7.0
+      },
+      "tong": 33.1,
+      "tbHocKy": 6.62,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 347,
+      "sbd": "10000415",
+      "hoTen": "HÀ THẾ VŨ",
+      "lop": "10A7",
+      "diem": {
+        "Toán": 1.7,
+        "Văn": 5.25,
+        "Sử": 7.0,
+        "Địa": 2.3,
+        "KTPL": 4.05
+      },
+      "tong": 20.25,
+      "tbHocKy": 4.05,
+      "xepLoai": "Yếu"
+    },
+    {
+      "stt": 348,
+      "sbd": "10000023",
+      "hoTen": "TRẦN VǍN HOÀNG ANH",
+      "lop": "10A8",
+      "diem": {
+        "Toán": 6.1,
+        "Văn": 7.5,
+        "Anh": 5.25,
+        "Sử": 6.0,
+        "Địa": 8.5
+      },
+      "tong": 33.35,
+      "tbHocKy": 6.67,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 349,
+      "sbd": "10000041",
+      "hoTen": "TẠ GIA BẢO",
+      "lop": "10A8",
+      "diem": {
+        "Toán": 4.75,
+        "Văn": 7.25,
+        "Anh": 5.5,
+        "Sử": 4.75,
+        "Địa": 5.0
+      },
+      "tong": 27.25,
+      "tbHocKy": 5.45,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 350,
+      "sbd": "10000046",
+      "hoTen": "NGUYỄN TRỌNG THANH BÌNH",
+      "lop": "10A8",
+      "diem": {
+        "Toán": 4.25,
+        "Văn": 7.0,
+        "Sử": 4.75,
+        "Địa": 6.0,
+        "KTPL": 4.35
+      },
+      "tong": 26.35,
+      "tbHocKy": 5.27,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 351,
+      "sbd": "10000054",
+      "hoTen": "NGUYỄN THÙY CHI",
+      "lop": "10A8",
+      "diem": {
+        "Toán": 4.25,
+        "Văn": 7.5,
+        "Sử": 5.1,
+        "Địa": 5.0,
+        "KTPL": 5.25
+      },
+      "tong": 27.1,
+      "tbHocKy": 5.42,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 352,
+      "sbd": "10000055",
+      "hoTen": "TRẦN NGỌC LỆ CHI",
+      "lop": "10A8",
+      "diem": {
+        "Toán": 4.75,
+        "Văn": 6.75,
+        "Anh": 4.75,
+        "Sử": 8.5,
+        "Địa": 6.3
+      },
+      "tong": 31.0,
+      "tbHocKy": 6.2,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 353,
+      "sbd": "10000057",
+      "hoTen": "TRẦN DANH CHINH",
+      "lop": "10A8",
+      "diem": {
+        "Toán": 5.0,
+        "Văn": 6.75,
+        "Anh": 2.5,
+        "Sử": 5.5,
+        "Địa": 6.5
+      },
+      "tong": 26.25,
+      "tbHocKy": 5.25,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 354,
+      "sbd": "10000064",
+      "hoTen": "PHẠM THỊ HÂN DI",
+      "lop": "10A8",
+      "diem": {
+        "Toán": 3.85,
+        "Văn": 7.25,
+        "Anh": 3.75,
+        "Sử": 6.6,
+        "Địa": 3.6
+      },
+      "tong": 25.05,
+      "tbHocKy": 5.01,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 355,
+      "sbd": "10000068",
+      "hoTen": "BÙI THỊ DUNG",
+      "lop": "10A8",
+      "diem": {
+        "Toán": 7.0,
+        "Văn": 6.75,
+        "Anh": 4.25,
+        "Sử": 7.5,
+        "Địa": 8.0
+      },
+      "tong": 33.5,
+      "tbHocKy": 6.7,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 356,
+      "sbd": "10000086",
+      "hoTen": "PHAN HỮU ÐǍNG",
+      "lop": "10A8",
+      "diem": {
+        "Toán": 4.75,
+        "Văn": 8.0,
+        "Anh": 4.25,
+        "Sử": 6.0,
+        "Địa": 6.1
+      },
+      "tong": 29.1,
+      "tbHocKy": 5.82,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 357,
+      "sbd": "10000100",
+      "hoTen": "TRẦN THỊ TRÀ GIANG",
+      "lop": "10A8",
+      "diem": {
+        "Toán": 4.6,
+        "Văn": 7.0,
+        "Sử": 3.85,
+        "Địa": 5.4,
+        "KTPL": 5.5
+      },
+      "tong": 26.3,
+      "tbHocKy": 5.26,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 358,
+      "sbd": "10000118",
+      "hoTen": "TRẦN CÔNG HIẾU",
+      "lop": "10A8",
+      "diem": {
+        "Toán": 4.35,
+        "Văn": 7.5,
+        "Anh": 4.0,
+        "Sử": 6.75,
+        "Địa": 7.3
+      },
+      "tong": 29.85,
+      "tbHocKy": 5.97,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 359,
+      "sbd": "10000136",
+      "hoTen": "BÙI TRẦN BẢO HUY",
+      "lop": "10A8",
+      "diem": {
+        "Toán": 4.6,
+        "Văn": 5.0,
+        "Sử": 6.25,
+        "Địa": 6.5,
+        "KTPL": 4.5
+      },
+      "tong": 26.85,
+      "tbHocKy": 5.37,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 360,
+      "sbd": "10000138",
+      "hoTen": "ĐẬU NGUYỄN TƯỜNG HUY",
+      "lop": "10A8",
+      "diem": {
+        "Toán": 2.6,
+        "Văn": 5.5,
+        "Anh": 3.25,
+        "Sử": 6.0,
+        "Địa": 5.8
+      },
+      "tong": 23.1,
+      "tbHocKy": 4.62,
+      "xepLoai": "Yếu"
+    },
+    {
+      "stt": 361,
+      "sbd": "10000151",
+      "hoTen": "PHAN THỊ KHÁNH HUYỀN",
+      "lop": "10A8",
+      "diem": {
+        "Toán": 4.25,
+        "Văn": 7.5,
+        "Sử": 5.5,
+        "Địa": 5.3,
+        "KTPL": 5.25
+      },
+      "tong": 27.75,
+      "tbHocKy": 5.55,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 362,
+      "sbd": "10000175",
+      "hoTen": "TRẦN DƯƠNG TẤN LẬP",
+      "lop": "10A8",
+      "diem": {
+        "Toán": 6.6,
+        "Văn": 6.5,
+        "Anh": 4.25,
+        "Sử": 8.25,
+        "Địa": 7.3
+      },
+      "tong": 32.85,
+      "tbHocKy": 6.57,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 363,
+      "sbd": "10000228",
+      "hoTen": "NGUYỄN THỊ HOÀNG NGÂN",
+      "lop": "10A8",
+      "diem": {
+        "Toán": 7.1,
+        "Văn": 8.75,
+        "Sử": 6.35,
+        "Địa": 6.4,
+        "KTPL": 5.7
+      },
+      "tong": 34.25,
+      "tbHocKy": 6.85,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 364,
+      "sbd": "10000232",
+      "hoTen": "LÊ THỊ KHÁNH NGỌC",
+      "lop": "10A8",
+      "diem": {
+        "Toán": 8.6,
+        "Văn": 8.25,
+        "Anh": 3.0,
+        "Sử": 5.35,
+        "Địa": 6.3
+      },
+      "tong": 31.45,
+      "tbHocKy": 6.29,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 365,
+      "sbd": "10000236",
+      "hoTen": "NGUYỄN THỊ ÁNH NGỌC",
+      "lop": "10A8",
+      "diem": {
+        "Toán": 6.85,
+        "Văn": 8.0,
+        "Anh": 3.75,
+        "Sử": 7.0,
+        "Địa": 7.8
+      },
+      "tong": 33.35,
+      "tbHocKy": 6.67,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 366,
+      "sbd": "10000243",
+      "hoTen": "ĐẶNG THỊ CAO NGUYÊN",
+      "lop": "10A8",
+      "diem": {
+        "Toán": 5.6,
+        "Văn": 8.5,
+        "Anh": 3.75,
+        "Sử": 5.75,
+        "Địa": 6.5
+      },
+      "tong": 30.1,
+      "tbHocKy": 6.02,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 367,
+      "sbd": "10000246",
+      "hoTen": "NGUYỄN THÁI NGUYÊN",
+      "lop": "10A8",
+      "diem": {
+        "Toán": 4.6,
+        "Văn": 7.75,
+        "Sử": 4.75,
+        "Địa": 3.9,
+        "KTPL": 5.6
+      },
+      "tong": 26.55,
+      "tbHocKy": 5.31,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 368,
+      "sbd": "10000250",
+      "hoTen": "PHAN THỊ THANH NHÀN",
+      "lop": "10A8",
+      "diem": {
+        "Văn": 0.0
+      },
+      "tong": 0.0,
+      "tbHocKy": null,
+      "xepLoai": null
+    },
+    {
+      "stt": 369,
+      "sbd": "10000252",
+      "hoTen": "NGUYỄN DOÃN NHÂN",
+      "lop": "10A8",
+      "diem": {
+        "Toán": 7.25,
+        "Văn": 6.0,
+        "Sử": 4.75,
+        "Địa": 4.5,
+        "KTPL": 6.5
+      },
+      "tong": 29.0,
+      "tbHocKy": 5.8,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 370,
+      "sbd": "10000255",
+      "hoTen": "HỒ VIỆT NHẬT",
+      "lop": "10A8",
+      "diem": {
+        "Toán": 3.5,
+        "Sử": 2.95,
+        "Địa": 5.8,
+        "KTPL": 5.35
+      },
+      "tong": 17.55,
+      "tbHocKy": 4.39,
+      "xepLoai": "Yếu"
+    },
+    {
+      "stt": 371,
+      "sbd": "10000256",
+      "hoTen": "NGUYỄN KHẮC QUỐC NHẬT",
+      "lop": "10A8",
+      "diem": {
+        "Toán": 5.0,
+        "Văn": 7.25,
+        "Anh": 3.5,
+        "Sử": 6.5,
+        "Địa": 5.8
+      },
+      "tong": 28.0,
+      "tbHocKy": 5.6,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 372,
+      "sbd": "10000261",
+      "hoTen": "ĐẶNG NGUYỄN UYỂN NHI",
+      "lop": "10A8",
+      "diem": {
+        "Toán": 2.75,
+        "Văn": 7.25,
+        "Sử": 6.35,
+        "Địa": 5.8,
+        "KTPL": 4.25
+      },
+      "tong": 26.35,
+      "tbHocKy": 5.27,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 373,
+      "sbd": "10000262",
+      "hoTen": "LƯU THỊ YẾN NHI",
+      "lop": "10A8",
+      "diem": {
+        "Toán": 5.0,
+        "Văn": 7.25,
+        "Anh": 2.75,
+        "Sử": 6.75,
+        "Địa": 6.3
+      },
+      "tong": 28.0,
+      "tbHocKy": 5.6,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 374,
+      "sbd": "10000270",
+      "hoTen": "NGUYỄN THỊ GIA NHƯ",
+      "lop": "10A8",
+      "diem": {
+        "Toán": 4.35,
+        "Văn": 8.0,
+        "Sử": 6.25,
+        "Địa": 5.5,
+        "KTPL": 6.0
+      },
+      "tong": 30.1,
+      "tbHocKy": 6.02,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 375,
+      "sbd": "10000272",
+      "hoTen": "TRẦN THỊ QUỲNH NHƯ",
+      "lop": "10A8",
+      "diem": {
+        "Toán": 7.75,
+        "Văn": 8.0,
+        "Sử": 7.35,
+        "Địa": 8.3,
+        "KTPL": 7.0
+      },
+      "tong": 38.35,
+      "tbHocKy": 7.67,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 376,
+      "sbd": "10000279",
+      "hoTen": "TRẦN HOÀNG PHONG",
+      "lop": "10A8",
+      "diem": {
+        "Toán": 7.6,
+        "Văn": 7.0,
+        "Anh": 4.5,
+        "Sử": 6.25,
+        "Địa": 6.5
+      },
+      "tong": 31.85,
+      "tbHocKy": 6.37,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 377,
+      "sbd": "10000292",
+      "hoTen": "NGUYỄN ĐÌNH ANH QUÂN",
+      "lop": "10A8",
+      "diem": {
+        "Toán": 7.0,
+        "Văn": 8.0,
+        "Anh": 4.75,
+        "Sử": 7.0,
+        "Địa": 8.3
+      },
+      "tong": 35.0,
+      "tbHocKy": 7.0,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 378,
+      "sbd": "10000297",
+      "hoTen": "NGUYỄN TRỌNG QUỐC",
+      "lop": "10A8",
+      "diem": {
+        "Toán": 6.1,
+        "Văn": 7.5,
+        "Anh": 4.0,
+        "Sử": 7.25,
+        "Địa": 7.8
+      },
+      "tong": 32.6,
+      "tbHocKy": 6.52,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 379,
+      "sbd": "10000315",
+      "hoTen": "TRẦN THỊ QUỲNH TÂM",
+      "lop": "10A8",
+      "diem": {
+        "Toán": 7.5,
+        "Văn": 8.0,
+        "Sử": 5.35,
+        "Địa": 7.3,
+        "KTPL": 7.0
+      },
+      "tong": 35.1,
+      "tbHocKy": 7.02,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 380,
+      "sbd": "10000329",
+      "hoTen": "LÊ THỊ PHƯƠNG THẢO",
+      "lop": "10A8",
+      "diem": {
+        "Toán": 4.35,
+        "Văn": 7.75,
+        "Anh": 3.0,
+        "Sử": 4.1,
+        "Địa": 5.3
+      },
+      "tong": 24.45,
+      "tbHocKy": 4.89,
+      "xepLoai": "Yếu"
+    },
+    {
+      "stt": 381,
+      "sbd": "10000336",
+      "hoTen": "NGUYỄN TRẦN THẮNG",
+      "lop": "10A8",
+      "diem": {
+        "Toán": 5.0,
+        "Văn": 7.25,
+        "Anh": 4.75,
+        "Sử": 6.1,
+        "Địa": 4.8
+      },
+      "tong": 27.85,
+      "tbHocKy": 5.57,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 382,
+      "sbd": "10000352",
+      "hoTen": "NGUYỄN LÊ HOÀI THƯƠNG",
+      "lop": "10A8",
+      "diem": {
+        "Toán": 7.5,
+        "Văn": 8.25,
+        "Sử": 6.75,
+        "Địa": 4.0,
+        "KTPL": 6.5
+      },
+      "tong": 33.0,
+      "tbHocKy": 6.6,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 383,
+      "sbd": "10000357",
+      "hoTen": "ĐOÀN XUÂN TIẾN",
+      "lop": "10A8",
+      "diem": {
+        "Toán": 7.0,
+        "Văn": 6.25,
+        "Anh": 4.25,
+        "Sử": 6.75,
+        "Địa": 8.0
+      },
+      "tong": 32.25,
+      "tbHocKy": 6.45,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 384,
+      "sbd": "10000373",
+      "hoTen": "PHẠM THỊ HUYỀN TRANG",
+      "lop": "10A8",
+      "diem": {
+        "Toán": 5.5,
+        "Văn": 7.5,
+        "Anh": 3.75,
+        "Sử": 5.35,
+        "Địa": 4.8
+      },
+      "tong": 26.85,
+      "tbHocKy": 5.37,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 385,
+      "sbd": "10000382",
+      "hoTen": "NGUYỄN THỊ HUYỀN TRÂN",
+      "lop": "10A8",
+      "diem": {
+        "Toán": 7.0,
+        "Văn": 6.75,
+        "Sử": 7.0,
+        "Địa": 9.0,
+        "KTPL": 7.75
+      },
+      "tong": 37.5,
+      "tbHocKy": 7.5,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 386,
+      "sbd": "10000423",
+      "hoTen": "BÙI THỊ HẢI YẾN",
+      "lop": "10A8",
+      "diem": {
+        "Toán": 5.1,
+        "Văn": 8.25,
+        "Anh": 3.0,
+        "Sử": 6.5,
+        "Địa": 7.0
+      },
+      "tong": 29.85,
+      "tbHocKy": 5.97,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 387,
+      "sbd": "10000425",
+      "hoTen": "LÊ NGỌC GIA HUY",
+      "lop": "10A8",
+      "diem": {
+        "Toán": 2.75,
+        "Văn": 5.5,
+        "Sử": 4.85,
+        "Địa": 4.0,
+        "KTPL": 3.85
+      },
+      "tong": 20.95,
+      "tbHocKy": 4.19,
+      "xepLoai": "Yếu"
+    },
+    {
+      "stt": 388,
+      "sbd": "10000012",
+      "hoTen": "HOÀNG LAN ANH",
+      "lop": "10A9",
+      "diem": {
+        "Toán": 4.75,
+        "Văn": 6.75,
+        "Anh": 5.0,
+        "Sử": 6.75,
+        "Địa": 5.1
+      },
+      "tong": 28.35,
+      "tbHocKy": 5.67,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 389,
+      "sbd": "10000021",
+      "hoTen": "TRẦN ĐỨC ANH",
+      "lop": "10A9",
+      "diem": {
+        "Toán": 7.0,
+        "Văn": 6.5,
+        "Anh": 2.0,
+        "Sử": 5.5,
+        "Địa": 4.5
+      },
+      "tong": 25.5,
+      "tbHocKy": 5.1,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 390,
+      "sbd": "10000028",
+      "hoTen": "LÊ VĂN HOÀNG BÁCH",
+      "lop": "10A9",
+      "diem": {
+        "Toán": 2.45,
+        "Văn": 7.5,
+        "Anh": 2.75,
+        "Sử": 6.0,
+        "Địa": 4.9
+      },
+      "tong": 23.55,
+      "tbHocKy": 4.71,
+      "xepLoai": "Yếu"
+    },
+    {
+      "stt": 391,
+      "sbd": "10000034",
+      "hoTen": "LÊ XUÂN DUY BẢO",
+      "lop": "10A9",
+      "diem": {
+        "Toán": 4.0,
+        "Văn": 7.25,
+        "Anh": 4.25,
+        "Sử": 5.25,
+        "Địa": 5.4
+      },
+      "tong": 26.1,
+      "tbHocKy": 5.22,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 392,
+      "sbd": "10000052",
+      "hoTen": "NGUYỄN THỊ KIM CHI",
+      "lop": "10A9",
+      "diem": {
+        "Toán": 8.5,
+        "Văn": 5.0,
+        "Anh": 4.5,
+        "Sử": 7.0,
+        "Địa": 7.5
+      },
+      "tong": 32.5,
+      "tbHocKy": 6.5,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 393,
+      "sbd": "10000062",
+      "hoTen": "TRẦN NHƯ QUỐC CƯỜNG",
+      "lop": "10A9",
+      "diem": {
+        "Toán": 3.25,
+        "Văn": 5.5,
+        "Anh": 4.0,
+        "Sử": 5.75,
+        "Địa": 4.0
+      },
+      "tong": 22.5,
+      "tbHocKy": 4.5,
+      "xepLoai": "Yếu"
+    },
+    {
+      "stt": 394,
+      "sbd": "10000071",
+      "hoTen": "TRẦN HUY TIẾN DŨNG",
+      "lop": "10A9",
+      "diem": {
+        "Toán": 3.95,
+        "Văn": 4.0,
+        "Anh": 4.25,
+        "Sử": 5.1,
+        "Địa": 4.8
+      },
+      "tong": 22.05,
+      "tbHocKy": 4.41,
+      "xepLoai": "Yếu"
+    },
+    {
+      "stt": 395,
+      "sbd": "10000089",
+      "hoTen": "TRẦN XUÂN ĐĂNG",
+      "lop": "10A9",
+      "diem": {
+        "Toán": 6.75,
+        "Văn": 8.25,
+        "Anh": 3.25,
+        "Sử": 7.0,
+        "Địa": 6.3
+      },
+      "tong": 31.5,
+      "tbHocKy": 6.3,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 396,
+      "sbd": "10000091",
+      "hoTen": "LÊ QUANG ĐỨC",
+      "lop": "10A9",
+      "diem": {
+        "Toán": 6.75,
+        "Văn": 7.0,
+        "Anh": 1.75,
+        "Sử": 7.5,
+        "Địa": 7.3
+      },
+      "tong": 30.25,
+      "tbHocKy": 6.05,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 397,
+      "sbd": "10000124",
+      "hoTen": "NGUYỄN HUY HOÀNG",
+      "lop": "10A9",
+      "diem": {
+        "Toán": 6.35,
+        "Văn": 8.0,
+        "Anh": 4.0,
+        "Sử": 6.5,
+        "Địa": 5.0
+      },
+      "tong": 29.85,
+      "tbHocKy": 5.97,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 398,
+      "sbd": "10000130",
+      "hoTen": "NGUYỄN ĐÌNH HÙNG",
+      "lop": "10A9",
+      "diem": {
+        "Toán": 4.1,
+        "Văn": 7.5,
+        "Anh": 3.25,
+        "Sử": 6.5,
+        "Địa": 5.5
+      },
+      "tong": 26.85,
+      "tbHocKy": 5.37,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 399,
+      "sbd": "10000141",
+      "hoTen": "NGUYỄN HUY HOÀNG",
+      "lop": "10A9",
+      "diem": {
+        "Toán": 5.1,
+        "Văn": 6.25,
+        "Anh": 3.0,
+        "Sử": 6.25,
+        "Địa": 4.8
+      },
+      "tong": 25.35,
+      "tbHocKy": 5.07,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 400,
+      "sbd": "10000147",
+      "hoTen": "LÊ THỊ KHÁNH HUYỀN",
+      "lop": "10A9",
+      "diem": {
+        "Toán": 5.1,
+        "Văn": 5.25,
+        "Anh": 3.75,
+        "Sử": 4.35,
+        "Địa": 4.3
+      },
+      "tong": 22.7,
+      "tbHocKy": 4.54,
+      "xepLoai": "Yếu"
+    },
+    {
+      "stt": 401,
+      "sbd": "10000150",
+      "hoTen": "NGUYỄN THỊ THU HUYỀN",
+      "lop": "10A9",
+      "diem": {
+        "Toán": 5.5,
+        "Văn": 8.25,
+        "Anh": 5.0,
+        "Sử": 8.35,
+        "Địa": 8.0
+      },
+      "tong": 35.1,
+      "tbHocKy": 7.02,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 402,
+      "sbd": "10000164",
+      "hoTen": "ĐINH NGÂN KHÁNH",
+      "lop": "10A9",
+      "diem": {
+        "Toán": 6.6,
+        "Văn": 6.75,
+        "Anh": 2.75,
+        "Sử": 7.0,
+        "Địa": 5.5
+      },
+      "tong": 28.6,
+      "tbHocKy": 5.72,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 403,
+      "sbd": "10000166",
+      "hoTen": "NGUYỄN DUY KHÁNH",
+      "lop": "10A9",
+      "diem": {
+        "Toán": 4.25,
+        "Văn": 6.25,
+        "Anh": 3.5,
+        "Sử": 6.0,
+        "Địa": 2.5
+      },
+      "tong": 22.45,
+      "tbHocKy": 4.49,
+      "xepLoai": "Yếu"
+    },
+    {
+      "stt": 404,
+      "sbd": "10000171",
+      "hoTen": "BIỆN NGUYỄN VƯƠNG LÂM",
+      "lop": "10A9",
+      "diem": {
+        "Toán": 4.5,
+        "Văn": 6.5,
+        "Anh": 3.75,
+        "Sử": 6.0,
+        "Địa": 4.0
+      },
+      "tong": 24.75,
+      "tbHocKy": 4.95,
+      "xepLoai": "Yếu"
+    },
+    {
+      "stt": 405,
+      "sbd": "10000179",
+      "hoTen": "BÙI LÊ THẢO LINH",
+      "lop": "10A9",
+      "diem": {
+        "Toán": 1.95,
+        "Văn": 7.0,
+        "Anh": 3.25,
+        "Sử": 3.35,
+        "Địa": 4.5
+      },
+      "tong": 20.05,
+      "tbHocKy": 4.01,
+      "xepLoai": "Yếu"
+    },
+    {
+      "stt": 406,
+      "sbd": "10000188",
+      "hoTen": "VÕ THỊ ÁI LINH",
+      "lop": "10A9",
+      "diem": {
+        "Toán": 2.6,
+        "Văn": 4.75,
+        "Anh": 3.25,
+        "Sử": 4.85,
+        "Địa": 4.3
+      },
+      "tong": 19.7,
+      "tbHocKy": 3.94,
+      "xepLoai": "Yếu"
+    },
+    {
+      "stt": 407,
+      "sbd": "10000190",
+      "hoTen": "ĐINH VĂN BẢO LONG",
+      "lop": "10A9",
+      "diem": {
+        "Toán": 4.85,
+        "Văn": 7.5,
+        "Anh": 3.0,
+        "Sử": 7.25,
+        "Địa": 4.1
+      },
+      "tong": 26.7,
+      "tbHocKy": 5.34,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 408,
+      "sbd": "10000201",
+      "hoTen": "NGÔ THỊ PHƯƠNG MAI",
+      "lop": "10A9",
+      "diem": {
+        "Toán": 9.0,
+        "Văn": 7.25,
+        "Anh": 4.0,
+        "Sử": 7.75,
+        "Địa": 5.8
+      },
+      "tong": 33.75,
+      "tbHocKy": 6.75,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 409,
+      "sbd": "10000215",
+      "hoTen": "TRẦN NGUYỄN TRÀ MY",
+      "lop": "10A9",
+      "diem": {
+        "Toán": 2.85,
+        "Văn": 6.5,
+        "Anh": 2.0,
+        "Sử": 4.5,
+        "Địa": 6.0
+      },
+      "tong": 21.85,
+      "tbHocKy": 4.37,
+      "xepLoai": "Yếu"
+    },
+    {
+      "stt": 410,
+      "sbd": "10000217",
+      "hoTen": "TRẦN THỊ TRÀ MY",
+      "lop": "10A9",
+      "diem": {},
+      "tong": null,
+      "tbHocKy": null,
+      "xepLoai": null
+    },
+    {
+      "stt": 411,
+      "sbd": "10000234",
+      "hoTen": "NGUYỄN HOÀNG BẢO NGỌC",
+      "lop": "10A9",
+      "diem": {
+        "Toán": 8.0,
+        "Văn": 8.5,
+        "Anh": 4.75,
+        "Sử": 7.35,
+        "Địa": 6.5
+      },
+      "tong": 35.1,
+      "tbHocKy": 7.02,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 412,
+      "sbd": "10000248",
+      "hoTen": "TRẦN VĂN THÁI NGUYÊN",
+      "lop": "10A9",
+      "diem": {
+        "Toán": 4.0,
+        "Văn": 8.25,
+        "Anh": 3.25,
+        "Sử": 5.75,
+        "Địa": 6.0
+      },
+      "tong": 27.25,
+      "tbHocKy": 5.45,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 413,
+      "sbd": "10000253",
+      "hoTen": "DƯƠNG VĂN NHẬT",
+      "lop": "10A9",
+      "diem": {
+        "Toán": 2.35,
+        "Văn": 8.0,
+        "Anh": 3.0,
+        "Sử": 6.5,
+        "Địa": 4.3
+      },
+      "tong": 24.1,
+      "tbHocKy": 4.82,
+      "xepLoai": "Yếu"
+    },
+    {
+      "stt": 414,
+      "sbd": "10000268",
+      "hoTen": "BÙI PHAN QUỲNH NHƯ",
+      "lop": "10A9",
+      "diem": {
+        "Toán": 3.5,
+        "Văn": 6.5,
+        "Anh": 4.0,
+        "Sử": 5.0,
+        "Địa": 3.5
+      },
+      "tong": 22.5,
+      "tbHocKy": 4.5,
+      "xepLoai": "Yếu"
+    },
+    {
+      "stt": 415,
+      "sbd": "10000274",
+      "hoTen": "PHẠM TRƯƠNG KIỀU OANH",
+      "lop": "10A9",
+      "diem": {
+        "Toán": 4.45,
+        "Văn": 7.75,
+        "Anh": 3.25,
+        "Sử": 4.85,
+        "Địa": 5.0
+      },
+      "tong": 25.3,
+      "tbHocKy": 5.06,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 416,
+      "sbd": "10000299",
+      "hoTen": "NGUYỄN THẢO QUYÊN",
+      "lop": "10A9",
+      "diem": {
+        "Toán": 6.1,
+        "Văn": 8.5,
+        "Anh": 3.0,
+        "Sử": 7.0,
+        "Địa": 6.5
+      },
+      "tong": 31.1,
+      "tbHocKy": 6.22,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 417,
+      "sbd": "10000309",
+      "hoTen": "ĐẶNG THÁI SƠN",
+      "lop": "10A9",
+      "diem": {
+        "Toán": 6.6,
+        "Văn": 6.75,
+        "Anh": 5.5,
+        "Sử": 6.75,
+        "Địa": 5.5
+      },
+      "tong": 31.1,
+      "tbHocKy": 6.22,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 418,
+      "sbd": "10000355",
+      "hoTen": "NGUYỄN THỊ THỦY TIÊN",
+      "lop": "10A9",
+      "diem": {
+        "Toán": 6.75,
+        "Văn": 7.25,
+        "Anh": 4.75,
+        "Sử": 7.75,
+        "Địa": 6.0
+      },
+      "tong": 32.5,
+      "tbHocKy": 6.5,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 419,
+      "sbd": "10000366",
+      "hoTen": "DƯƠNG THÙY TRANG",
+      "lop": "10A9",
+      "diem": {
+        "Toán": 7.0,
+        "Văn": 8.25,
+        "Anh": 4.0,
+        "Sử": 5.5,
+        "Địa": 5.4
+      },
+      "tong": 30.1,
+      "tbHocKy": 6.02,
+      "xepLoai": "Trung bình"
+    },
+    {
+      "stt": 420,
+      "sbd": "10000379",
+      "hoTen": "NGUYỄN THỊ NGỌC TRÂM",
+      "lop": "10A9",
+      "diem": {
+        "Toán": 2.5,
+        "Văn": 8.0,
+        "Anh": 2.5,
+        "Sử": 6.0,
+        "Địa": 4.3
+      },
+      "tong": 23.25,
+      "tbHocKy": 4.65,
+      "xepLoai": "Yếu"
+    },
+    {
+      "stt": 421,
+      "sbd": "10000390",
+      "hoTen": "ĐẶNG THẾ ANH TUẤN",
+      "lop": "10A9",
+      "diem": {
+        "Toán": 2.45,
+        "Văn": 7.0,
+        "Anh": 1.5,
+        "Sử": 5.35,
+        "Địa": 4.5
+      },
+      "tong": 20.8,
+      "tbHocKy": 4.16,
+      "xepLoai": "Yếu"
+    },
+    {
+      "stt": 422,
+      "sbd": "10000392",
+      "hoTen": "HỒ SỸ TUẤN",
+      "lop": "10A9",
+      "diem": {
+        "Toán": 6.75,
+        "Văn": 8.25,
+        "Anh": 4.75,
+        "Sử": 7.25,
+        "Địa": 6.3
+      },
+      "tong": 33.25,
+      "tbHocKy": 6.65,
+      "xepLoai": "Khá"
+    },
+    {
+      "stt": 423,
+      "sbd": "10000395",
+      "hoTen": "NGUYỄN TRUNG TUẤN",
+      "lop": "10A9",
+      "diem": {
+        "Toán": 6.75,
+        "Văn": 7.75,
+        "Anh": 1.75,
+        "Sử": 4.5,
+        "Địa": 2.7
+      },
+      "tong": 23.45,
+      "tbHocKy": 4.69,
+      "xepLoai": "Yếu"
+    },
+    {
+      "stt": 424,
+      "sbd": "10000411",
+      "hoTen": "ĐẬU ĐĂNG VINH",
+      "lop": "10A9",
+      "diem": {
+        "Toán": 3.0,
+        "Văn": 6.5,
+        "Anh": 2.5,
+        "Sử": 2.6,
+        "Địa": 3.8
+      },
+      "tong": 18.35,
+      "tbHocKy": 3.67,
+      "xepLoai": "Yếu"
+    },
+    {
+      "stt": 425,
+      "sbd": "10000413",
+      "hoTen": "NGUYỄN CÔNG VINH",
+      "lop": "10A9",
+      "diem": {
+        "Toán": 5.25,
+        "Văn": 5.5,
+        "Anh": 2.75,
+        "Sử": 5.0,
+        "Địa": 5.3
+      },
+      "tong": 23.75,
+      "tbHocKy": 4.75,
+      "xepLoai": "Yếu"
+    }
+  ]
+}
