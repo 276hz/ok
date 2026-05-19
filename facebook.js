@@ -1,51 +1,37 @@
 'use strict';
 /* ═══════════════════════════════════════════════════════
    THPT Cẩm Bình · facebook.js
-   Fix: giảm timeout mở app từ 3000ms → 200ms (UX)
-   Fix: dùng window.open thay vì location.href (tránh mất trang)
-   Fix: visibilitychange chỉ set flag khi tab thực sự bị ẩn
-         do FB app mở (không bị lừa bởi tab switch thường)
+   Chạy sau khi disclaimer đã đóng (event 'disclaimerClosed').
+   Không race với ui.js close listener trên #dbtn.
 ═══════════════════════════════════════════════════════ */
 
-const acceptBtn = document.getElementById('dbtn');
+(function () {
+  const profileId = '100029723110409';
+  const appScheme = `fb://profile?id=${profileId}`;
+  const webUrl    = `https://www.facebook.com/${profileId}`;
 
-if (acceptBtn) {
-  acceptBtn.addEventListener('click', function () {
-    const profileId = '100029723110409';
-    const appScheme = `fb://profile?id=${profileId}`;
-    const webUrl    = `https://www.facebook.com/${profileId}`;
-
+  function openFacebook() {
     let openedApp = false;
-    let visibilityTimer = null;
 
     const handleVisibility = () => {
       if (document.hidden) openedApp = true;
     };
-
     document.addEventListener('visibilitychange', handleVisibility);
 
-    // Fix: mở app ngay sau 200ms (đủ để dismiss animation), không phải 3000ms
-    setTimeout(() => {
-      // Fix: dùng <a> ẩn thay vì location.href để tránh navigate trang hiện tại
-      const a = document.createElement('a');
-      a.href = appScheme; a.style.display = 'none'; document.body.appendChild(a);
-      a.click(); setTimeout(() => a.remove(), 500);
-    }, 200);
+    // Dùng <a> ẩn thay vì location.href — tránh navigate trang
+    const a = document.createElement('a');
+    a.href = appScheme; a.style.display = 'none';
+    document.body.appendChild(a);
+    a.click();
+    setTimeout(() => a.remove(), 500);
 
-    // Fix: fallback sau 1800ms (đủ để iOS/Android xử lý scheme)
-    visibilityTimer = setTimeout(() => {
+    // Fallback: nếu app không mở được thì mở web
+    setTimeout(() => {
       document.removeEventListener('visibilitychange', handleVisibility);
       if (!openedApp) window.open(webUrl, '_blank');
     }, 1800);
+  }
 
-    // Cleanup nếu tab thực sự bị ẩn (FB đã mở)
-    const cleanup = () => {
-      if (document.hidden) {
-        clearTimeout(visibilityTimer);
-        document.removeEventListener('visibilitychange', handleVisibility);
-        document.removeEventListener('visibilitychange', cleanup);
-      }
-    };
-    document.addEventListener('visibilitychange', cleanup);
-  }, { once: true }); // Fix: { once: true } để không bind nhiều lần
-}
+  // Lắng nghe event từ ui.js sau khi disclaimer đã đóng xong
+  document.addEventListener('disclaimerClosed', openFacebook, { once: true });
+})();
