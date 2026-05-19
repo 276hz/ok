@@ -143,13 +143,17 @@ function initScrollTop() {
     tryNext();
   })();
 
-  // Close button — confetti + dismiss
+  // Close button — confetti + dismiss + notify facebook.js
   if (dbtn) {
     dbtn.addEventListener('click', function () {
       const r = dbtn.getBoundingClientRect();
       burst(r.left + r.width/2, r.top + r.height/2);
       dov.classList.remove('on'); dov.classList.add('off');
-      setTimeout(() => { dov.style.display = 'none'; }, 320);
+      setTimeout(() => {
+        dov.style.display = 'none';
+        // Thông báo cho facebook.js sau khi disclaimer đã đóng hẳn
+        document.dispatchEvent(new Event('disclaimerClosed'));
+      }, 320);
     }, { once: true });
   }
 })();
